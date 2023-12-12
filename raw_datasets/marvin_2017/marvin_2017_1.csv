@@ -1,0 +1,470 @@
+﻿Shape,Nanoparticle,Dissolution,Surface area,Surface charge,Surface coatings,Surface reactivity,Aggregation,Particle size,Administration route,Study type,Cytotoxicity,Neurological effects,Pulmonary effects,Fibrosis,RCNS effects,Immunological effects,Genotoxicity,Inflammation,NM Hazard
+Amorph,TiO2,,51 - 101.25,,,,High,10 to 50,Inhalation,In vivo,,,Low,,,,,Low,Medium
+Amorph,TiO2,,51 - 101.25,,,,High,10 to 50,Inhalation,In vivo,,,Low,,,,,Medium,High
+Amorph,TiO2,,51 - 101.25,,,,High,10 to 50,Inhalation,In vivo,,,Low,,,,,Low,Medium
+Amorph,TiO2,,51 - 101.25,,,,High,10 to 50,Inhalation,In vivo,,,Low,,,,,Low,Medium
+Amorph,TiO2,,51 - 101.25,,,,High,10 to 50,Inhalation,In vivo,,,Low,,,,,Medium,High
+Amorph,TiO2,,51 - 101.25,,,,High,10 to 50,Inhalation,In vivo,,,Low,,,,,Low,Medium
+Sphere,Ag,,,,,,,10 to 50,Inhalation,In vivo,,,Medium,None,None,,,Low,High
+Sphere,Ag,,,,,,Medium,>100,Inhalation,In vivo,,,Medium,None,None,,,Low,High
+Sphere,Ag,,,,,,,10 to 50,Inhalation,In vivo,,,High,,,,,Medium,High
+Sphere,Ag,,,,,,,10 to 50,Inhalation,In vivo,,,High,,,,,Medium,High
+Sphere,Ag,,,,,,,10 to 50,Inhalation,In vivo,,,High,,,,,Medium,High
+Sphere,Ag,,,,,,,10 to 50,Inhalation,In vivo,,,High,,,,,Medium,High
+Sphere,Ag,,,,,,,10 to 50,Inhalation,In vivo,,,High,,,,,Medium,High
+Sphere,Ag,,,,,,,10 to 50,Inhalation,In vivo,,,High,,,,,Medium,High
+Sphere,Ag,,,,None,,,50 to 100,Inhalation,In vivo,,,Medium,,,,,Low,High
+Sphere,Ag,,,,None,,,50 to 100,Inhalation,In vivo,,,Medium,,,,,Low,High
+Sphere,Ag,,,,None,,,50 to 100,Inhalation,In vivo,,,Medium,,,,,Low,High
+Sphere,Ag,,,,None,,,50 to 100,Inhalation,In vivo,,,Medium,,,,,Low,High
+Sphere,Ag,,,,,,,>100,Inhalation,In vivo,,,Medium,,,,,Low,High
+Sphere,Ag,,,,,,,>100,Inhalation,In vivo,,,Medium,,,,,Low,High
+Sphere,Ag,,,,,,,>100,Inhalation,In vivo,,,Medium,,,,,Low,High
+Amorph,TiO2,,189 - 2025,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,TiO2,,189 - 2025,,,,,10 to 50,,In vitro,,,,,,,None,,None
+Amorph,TiO2,,189 - 2025,,,,,10 to 50,,In vitro,,,,,,,Low,,Low
+Amorph,TiO2,,189 - 2025,,,,,10 to 50,,In vitro,,,,,,,None,,None
+Elongated,C,,189 - 2025,,,,,>100,,In vitro,Low,,,,,,,,Low
+Elongated,C,,189 - 2025,,,,,>100,,In vitro,,,,,,,None,,None
+Elongated,C,,189 - 2025,,,,,>100,,In vitro,,,,,,,Medium,,Medium
+Elongated,C,,51 - 101.25,,,,,>100,,In vitro,,,,,,,None,,None
+Elongated,C,,51 - 101.25,,,,,>100,,In vitro,,,,,,,Low,,Low
+Elongated,C,,51 - 101.25,,,,,>100,,In vitro,,,,,,,None,,None
+Elongated,Cellulose,,,,Sulphate,,Low,>100,,In vitro,Low,,,,,,,,Low
+Elongated,Cellulose,,,,Sulphate,,Low,>100,,In vitro,Low,,,,,,,,Low
+Elongated,Cellulose,,,,Sulphate,,Low,>100,,In vitro,Low,,,,,,,,Low
+Elongated,Cellulose,,,,Sulphate,,Low,>100,,In vitro,Low,,,,,,,,Low
+Elongated,Cellulose,,,,Sulphate,,Low,>100,,In vitro,Low,,,,,,,,Low
+Elongated,Cellulose,,,,Sulphate,,Low,>100,,In vitro,None,,,,,,,,None
+Elongated,Cellulose,,,,Sulphate,,Low,>100,,In vitro,None,,,,,,,,None
+Elongated,Cellulose,,,,Sulphate,,Low,>100,,In vitro,,,,,,,,None,None
+Elongated,Cellulose,,,,Sulphate,,Low,>100,,In vitro,,,,,,,,None,None
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,None,None,,,,None,Medium
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,None,None,,,,None,Medium
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,None,None,,,,None,Medium
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,None,None,,,,None,Medium
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,None,None,,,,None,Medium
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,None,None,,,,None,Medium
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,None,None,,,,None,Medium
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,None,None,,,,None,Medium
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,Low,Low,,,,Medium,High
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,Medium,Low,,,,Medium,High
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,Low,Low,,,,Medium,High
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,,,,,,,Medium
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,,,,,,,Medium
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,,,,,,,Medium
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,,,,,,,Medium
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,,,,,,,Medium
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,,,,,,,Medium
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,,,,,,,Medium
+Amorph,TiO2,,,,,,,>100,Injection,In vivo,,Medium,,,,,,,Medium
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,,,,,,,,None,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,TiO2,0 to 25%,51 - 101.25,-50 to -25,Silianes-aluminium,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,Medium,,,,,,,,Medium
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,Medium,,,,,,,,Medium
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,,0 - 15,0 to 25,None,,Medium,>100,,In vitro,,,,,,,,Low,Low
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,Low,,,,,,,,Low
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,Medium,,,,,,,,Medium
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,Medium,,,,,,,,Medium
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,High,,,,,,,,High
+Elongated,ZnO,0 to 25%,15 - 51,,Triethoxycapryl silane,,Medium,>100,,In vitro,,,,,,,,Low,Low
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,,,,,,,,Low,Low
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,SiO2,,189 - 2025,-50 to -25,Carbon,Low,High,10 to 50,,In vitro,,,,,,,,None,None
+Sphere,TiO2,,,,AHPP,,Low,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,,,,AHPP,,Low,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,,,,AHPP,,Low,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,,,,AHPP,,Low,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,,,-25 to 0,,,High,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,,,-25 to 0,,,High,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,,,-25 to 0,,,High,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,,,-25 to 0,,,High,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,,,-25 to 0,,,High,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,,,-25 to 0,,,High,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,,,-25 to 0,,,High,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,,,-25 to 0,,,High,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,,,-25 to 0,,,High,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,,,-25 to 0,,,High,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,,,-25 to 0,,,High,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,Ag,0 to 25%,15 - 51,,,,Medium,10 to 50,Intravenous,In vivo,,,,,,,,Low,Low
+Sphere,Ag,0 to 25%,15 - 51,,,,Medium,10 to 50,,In vitro,High,,,,,,,,High
+Sphere,Ag,0 to 25%,15 - 51,,,,Medium,10 to 50,,In vitro,High,,,,,,,,High
+Sphere,Ag,0 to 25%,15 - 51,,,,Medium,10 to 50,,In vitro,,,,,,,,Medium,Medium
+Sphere,Ag,0 to 25%,15 - 51,,,,Medium,10 to 50,,In vitro,,,,,,,,Low,Low
+Sphere,Ag,0 to 25%,15 - 51,,,,Medium,10 to 50,,In vitro,,,,,,,,Low,Low
+Sphere,Ag,0 to 25%,15 - 51,,,,Medium,10 to 50,,In vitro,,,,,,,,Medium,Medium
+Sphere,Ag,0 to 25%,15 - 51,,,,Medium,10 to 50,,In vitro,,,,,,,,Medium,Medium
+Irregular,CeO2,,51 - 101.25,,,,Medium,10 to 50,Inhalation,In vivo,,,Medium,,,,,Medium,High
+Irregular,CeO2,,51 - 101.25,,,,Medium,10 to 50,Inhalation,In vivo,,,Medium,,,,,Medium,High
+Irregular,CeO2,,51 - 101.25,,,,Medium,10 to 50,Inhalation,In vivo,,,High,,,,,High,High
+Irregular,CeO2,,51 - 101.25,,,,Medium,10 to 50,Inhalation,In vivo,,,High,,,,,High,High
+Irregular,CeO2,,15 - 51,,,,Medium,10 to 50,Inhalation,In vivo,,,Medium,,,,,Medium,High
+Irregular,CeO2,,15 - 51,,,,Medium,10 to 50,Inhalation,In vivo,,,Medium,,,,,Medium,High
+Irregular,CeO2,,15 - 51,,,,Medium,10 to 50,Inhalation,In vivo,,,High,,,,,High,High
+Irregular,CeO2,,15 - 51,,,,Medium,10 to 50,Inhalation,In vivo,,,Medium,,,,,Medium,High
+Irregular,CeO2,,15 - 51,,,,Medium,10 to 50,Inhalation,In vivo,,,Medium,,,,,Medium,High
+Irregular,CeO2,,0 - 15,,,,Low,>100,Inhalation,In vivo,,,High,,,,,High,High
+Irregular,CeO2,,0 - 15,,,,Low,>100,Inhalation,In vivo,,,Medium,,,,,Medium,High
+Irregular,CeO2,,0 - 15,,,,Low,>100,Inhalation,In vivo,,,Medium,,,,,Medium,High
+Irregular,CeO2,,0 - 15,,,,Low,>100,Inhalation,In vivo,,,High,,,,,High,High
+Sphere,Ag,,,,PVP,,Low,50 to 100,Inhalation,In vivo,,,Low,,,,,Low,Medium
+,TiO2,,101.25 - 189,,,,,0 to 10,Oral,In vivo,,High,,,None,,,,High
+,TiO2,,101.25 - 189,,,,,0 to 10,Oral,In vivo,,High,,,Medium,,,,High
+,TiO2,,101.25 - 189,,,,,0 to 10,Oral,In vivo,,High,,,Medium,,,,High
+Irregular,CeO2,0 to 25%,15 - 51,25 to 50,None,High,Medium,10 to 50,Inhalation,In vivo,,,Low,,,,None,Low,Medium
+Irregular,CeO2,0 to 25%,15 - 51,25 to 50,None,High,Medium,10 to 50,Inhalation,In vivo,,,Medium,,,,None,Medium,High
+Irregular,CeO2,0 to 25%,15 - 51,25 to 50,None,High,Medium,10 to 50,Inhalation,In vivo,,,High,,,,None,High,High
+Irregular,CeO2,0 to 25%,51 - 101.25,0 to 25,None,,Medium,0 to 10,Inhalation,In vivo,,,Low,,,,None,Low,Medium
+Irregular,CeO2,0 to 25%,51 - 101.25,0 to 25,None,,Medium,0 to 10,Inhalation,In vivo,,,High,,,,None,High,High
+Irregular,CeO2,0 to 25%,15 - 51,25 to 50,None,High,Medium,10 to 50,Inhalation,In vivo,,,Low,,,,None,Low,Medium
+Irregular,CeO2,0 to 25%,15 - 51,25 to 50,None,High,Medium,10 to 50,Inhalation,In vivo,,,High,,,,None,High,High
+Sphere,Au,,0 - 15,-25 to 0,SO3-,,,0 to 10,Inhalation,In vivo,,,,,Medium,,,,Medium
+Sphere,Au,,0 - 15,-25 to 0,SO3-,,,0 to 10,Inhalation,In vivo,,,,,None,,,,None
+Sphere,Au,,0 - 15,-25 to 0,SO3-,,,50 to 100,Inhalation,In vivo,,,,,None,,,,None
+Sphere,Au,,0 - 15,-50 to -25,SO3-,,,>100,Inhalation,In vivo,,,,,Medium,,,,Medium
+Sphere,Au,,0 - 15,,Carboxyl,,,0 to 10,Inhalation,In vivo,,,,,Medium,,,,Medium
+Sphere,Au,,0 - 15,,Amine,,,0 to 10,Inhalation,In vivo,,,,,Medium,,,,Medium
+Sphere,Ag,,,,,,,50 to 100,Intravenous,In vivo,,,,,None,,,,None
+Sphere,Ag,,,,,,,50 to 100,Intravenous,In vivo,,,,,None,,,,None
+Sphere,Ag,,,,,,,>100,Intravenous,In vivo,,,,,None,,,,None
+Sphere,Ag,,,,,,,>100,Intravenous,In vivo,,,,,None,,,,None
+Sphere,Ag,,,,Citrate,,,10 to 50,Oral,In vivo,Low,,None,None,Medium,,,None,High
+Sphere,Ag,,,,Citrate,,,10 to 50,Oral,In vivo,None,,None,None,Medium,,,None,Medium
+Sphere,Ag,,,,Citrate,,,10 to 50,Oral,In vivo,Low,,Low,None,Medium,,,None,High
+Sphere,Ag,,,,Citrate,,,10 to 50,Oral,In vivo,None,,None,None,Medium,,,None,Medium
+Sphere,Ag,,,,Citrate,,,10 to 50,Oral,In vivo,None,,None,None,Medium,,,None,Medium
+Sphere,Ag,,,,Citrate,,,10 to 50,Oral,In vivo,None,,None,None,Medium,,,None,Medium
+Amorph,TiO2,,,-50 to -25,,,High,10 to 50,Inhalation,In vivo,,,,,Low,,,,Low
+Amorph,TiO2,,,-50 to -25,,,High,10 to 50,Inhalation,In vivo,,,,,Low,,,,Low
+Amorph,TiO2,,,-50 to -25,,,High,10 to 50,Inhalation,In vivo,,,,,Low,,,,Low
+Amorph,TiO2,,,-50 to -25,,,High,10 to 50,Inhalation,In vivo,,,,,Low,,,Low,Medium
+,TiO3,,51 - 101.25,-50 to -25,,,High,10 to 50,Inhalation,In vivo,,,,,None,,None,None,None
+,TiO3,,51 - 101.25,-50 to -25,,,High,10 to 50,Inhalation,In vivo,,,,,None,,None,None,None
+,TiO3,,51 - 101.25,-50 to -25,,,High,10 to 50,Inhalation,In vivo,,,,,Low,,None,Low,Medium
+Sphere,Ag,,,-25 to 0,PVP,,Low,10 to 50,Oral,In vivo,,,,,Medium,,,,Medium
+Irregular,ZnO,,,,,,,>100,,In vitro,Medium,,,,,,,,Medium
+Irregular,ZnO,,,,,,,>100,,In vitro,Low,,,,,,,,Low
+Amorph,NiO,,,,,,,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Amorph,NiO,,,,,,,10 to 50,,In vitro,High,,,,,,,,High
+Amorph,CeO2,,,,,,,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Amorph,CeO2,,,,,,,10 to 50,,In vitro,High,,,,,,,,High
+,C,,,,,,,10 to 50,Inhalation,In vivo,,,None,,,,,,None
+,C,,,,,,,10 to 50,,In vitro,,,None,,,,,,None
+Sphere,Ag,,0 - 15,-50 to -25,PVP,,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Sphere,Ag,,0 - 15,-50 to -25,PVP,,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Sphere,Ag,,0 - 15,-50 to -25,PVP,,High,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Sphere,Ag,,0 - 15,-50 to -25,PVP,,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Sphere,Ag,,0 - 15,-50 to -25,PVP,,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Sphere,Ag,,0 - 15,-50 to -25,PVP,,High,10 to 50,,In vitro,Low,,,,,,,,Low
+Sphere,Ag,,0 - 15,-50 to -25,PVP,,High,10 to 50,,In vitro,,,,,,,None,,None
+Sphere,Ag,,0 - 15,-50 to -25,PVP,,High,10 to 50,,In vitro,,,,,,,None,,None
+Sphere,Ag,,0 - 15,-50 to -25,PVP,,High,10 to 50,,In vitro,,,,,,,None,,None
+Sphere,Ag,,0 - 15,-50 to -25,PVP,,High,10 to 50,,In vitro,,,,,,,None,,None
+Sphere,PS,,,-25 to 0,,,Low,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,PS,,,-25 to 0,,,Low,10 to 50,,In vitro,,,,,,,,None,None
+Sphere,PS,,,-25 to 0,,,Low,>100,,In vitro,None,,,,,,,,None
+Sphere,PS,,,-25 to 0,,,Low,>100,,In vitro,,,,,,,,None,None
+Amorph,TiO2,,189 - 2025,,,,,>100,Injection,In vivo,Low,Low,,,,,,Low,High
+Irregular,TiO2,,15 - 51,,,,High,>100,Oral,In vivo,Medium,,,,,,,,Medium
+Irregular,TiO2,,15 - 51,,,,High,>100,Oral,In vivo,High,,,,,,,,High
+Sphere,Ag,0 to 25%,,,,,Low,10 to 50,Oral,In vivo,,None,,,Medium,,,None,Medium
+Sphere,Ag,0 to 25%,,,PVP,,Low,10 to 50,Oral,In vivo,,None,,,Medium,,,None,Medium
+Sphere,Ag,0 to 25%,,,PVP,,Low,10 to 50,Oral,In vivo,,None,,,Medium,,,None,Medium
+Amorph,SiO2,0 to 25%,189 - 2025,,Carboxyl,,High,0 to 10,Oral,In vivo,None,,,None,None,,,None,None
+Amorph,SiO2,0 to 25%,189 - 2025,,Carboxyl,,High,0 to 10,Oral,In vivo,,,,None,None,,,None,None
+Amorph,SiO2,0 to 25%,189 - 2025,,Carboxyl,,High,0 to 10,Oral,In vivo,,,,None,None,,,None,None
+Amorph,SiO2,0 to 25%,189 - 2025,,Carboxyl,,High,0 to 10,Oral,In vivo,,,,None,None,,,None,None
+Amorph,SiO2,0 to 25%,189 - 2025,,Carboxyl,,High,10 to 50,Oral,In vivo,,,,None,None,,,None,None
+Sphere,PS,,,-50 to -25,None,,,10 to 50,Oral,In vivo,,,,,None,,,,None
+Sphere,PS,,,-50 to -25,Carboxyl,,,10 to 50,Oral,In vivo,,,,,None,,,,None
+Sphere,PS,,,-50 to -25,Carboxyl,,,10 to 50,Oral,In vivo,,,,,None,,,,None
+Irregular,TiO2,,51 - 101.25,-50 to -25,Hydroxyl,,Medium,50 to 100,Oral,In vivo,,,Low,,,None,,Low,Medium
+Irregular,TiO2,,51 - 101.25,-50 to -25,Hydroxyl,,Medium,50 to 100,Oral,In vivo,,,None,,,None,,Low,Low
+Irregular,TiO2,,51 - 101.25,-50 to -25,Hydroxyl,,Medium,50 to 100,Oral,In vivo,,,None,,,None,,Low,Low
+Irregular,TiO2,,51 - 101.25,-50 to -25,Hydroxyl,,Medium,50 to 100,Oral,In vivo,,,None,,,None,,Low,Low
+Sphere,Fe2O3,,,0 to 25,,,Medium,50 to 100,Oral,In vivo,,,,None,,,,None,None
+Sphere,Fe2O3,,,0 to 25,,,Medium,50 to 100,Oral,In vivo,,,,None,,,,None,None
+Sphere,Fe2O3,,,0 to 25,,,Medium,50 to 100,Oral,In vivo,,,,None,,,,None,None
+Sphere,Fe2O3,,,0 to 25,,,Medium,50 to 100,Oral,In vivo,,,,None,,,,None,None
+Sphere,Fe2O3,,,0 to 25,,,Medium,50 to 100,Oral,In vivo,,,None,None,None,,,None,None
+Sphere,SiO2,,,-50 to -25,,,Medium,10 to 50,Oral,In vivo,,,,None,,,,None,None
+Sphere,SiO2,,,-50 to -25,,,Medium,10 to 50,Oral,In vivo,,,,None,,,,None,None
+Sphere,SiO2,,,-50 to -25,,,Medium,10 to 50,Oral,In vivo,,,None,None,None,,,None,None
+Sphere,SiO2,,,-50 to -25,,,Medium,10 to 50,Oral,In vivo,,,None,None,None,,,None,None
+Sphere,SiO2,,,-50 to -25,,,Medium,10 to 50,Oral,In vivo,,,None,None,None,,,None,None
+Sphere,Ag,,,0 to 25,,,Low,10 to 50,Oral,In vivo,,,,None,,,,None,None
+Sphere,Ag,,,0 to 25,,,Low,10 to 50,Oral,In vivo,,,,None,,,,None,None
+Sphere,Ag,,,0 to 25,,,Low,10 to 50,Oral,In vivo,,,,None,,,,None,None
+Sphere,Ag,,,0 to 25,,,Low,10 to 50,Oral,In vivo,,,,None,,,,None,None
+Sphere,Ag,,,0 to 25,,,Low,10 to 50,Oral,In vivo,,,None,None,Medium,,,None,Medium
+Sphere,Ag,,,0 to 25,,,Low,10 to 50,Oral,In vivo,,,None,None,Medium,,,Low,High
+Amorph,Al2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,Al2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,Al2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,Al2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,Al2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,CeO2,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,CeO2,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,CeO2,0 to 25%,,,,,,10 to 50,,In vitro,Low,,,,,,,,Low
+Amorph,CeO2,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,CeO2,0 to 25%,,,,,,10 to 50,Inhalation,In vivo,,,,,,,,None,None
+Amorph,Co3O4,0 to 25%,,,,High,,10 to 50,Inhalation,In vivo,,,,,,,,Medium,Medium
+Amorph,Co3O4,0 to 25%,,,,High,,10 to 50,,In vitro,High,,,,,,,,High
+Amorph,Co3O4,0 to 25%,,,,High,,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Amorph,Co3O4,0 to 25%,,,,High,,10 to 50,,In vitro,High,,,,,,,,High
+Amorph,Co3O4,0 to 25%,,,,High,,10 to 50,,In vitro,Medium,,,,,,,,Medium
+Amorph,Co3O4,0 to 25%,,,,High,,10 to 50,,In vitro,High,,,,,,,,High
+Sphere,CoO,0 to 25%,,,,High,,50 to 100,Inhalation,In vivo,,,,,,,,Medium,Medium
+Sphere,CoO,0 to 25%,,,,High,,50 to 100,,In vitro,High,,,,,,,,High
+Sphere,CoO,0 to 25%,,,,High,,50 to 100,,In vitro,High,,,,,,,,High
+Sphere,CoO,0 to 25%,,,,High,,50 to 100,,In vitro,High,,,,,,,,High
+Sphere,CoO,0 to 25%,,,,High,,50 to 100,,In vitro,High,,,,,,,,High
+Sphere,CoO,0 to 25%,,,,High,,50 to 100,,In vitro,High,,,,,,,,High
+Sphere,Cr2O3,0 to 25%,,,,Low,,>100,Inhalation,In vivo,,,,,,,,Medium,Medium
+Sphere,Cr2O3,0 to 25%,,,,Low,,>100,,In vitro,High,,,,,,,,High
+Sphere,Cr2O3,0 to 25%,,,,Low,,>100,,In vitro,High,,,,,,,,High
+Sphere,Cr2O3,0 to 25%,,,,Low,,>100,,In vitro,Medium,,,,,,,,Medium
+Sphere,Cr2O3,0 to 25%,,,,Low,,>100,,In vitro,Medium,,,,,,,,Medium
+Sphere,Cr2O3,0 to 25%,,,,Low,,>100,,In vitro,Medium,,,,,,,,Medium
+Sphere,CuO,0 to 25%,,,,High,,10 to 50,,In vitro,High,,,,,,,,High
+Sphere,CuO,0 to 25%,,,,High,,10 to 50,,In vitro,High,,,,,,,,High
+Sphere,CuO,0 to 25%,,,,High,,10 to 50,,In vitro,High,,,,,,,,High
+Sphere,CuO,0 to 25%,,,,High,,10 to 50,,In vitro,High,,,,,,,,High
+Sphere,CuO,0 to 25%,,,,High,,10 to 50,,In vitro,High,,,,,,,,High
+Amorph,CeO2,0 to 25%,,,,,,10 to 50,Inhalation,In vivo,,,,,,,,Medium,Medium
+Sphere,Fe2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,Fe2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,Fe2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,Fe2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,Fe2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,Fe2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,Fe2O3,0 to 25%,,,,,,10 to 50,Inhalation,In vivo,,,,,,,,None,None
+Sphere,Fe3O4,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,Fe3O4,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,Fe3O4,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,Fe3O4,0 to 25%,,,,,,10 to 50,,In vitro,Low,,,,,,,,Low
+Sphere,Fe3O4,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,Fe3O4,0 to 25%,,,,,,10 to 50,Inhalation,In vivo,,,,,,,,None,None
+Sphere,Gd2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,Gd2O3,0 to 25%,,,,,,10 to 50,,In vitro,Low,,,,,,,,Low
+Sphere,Gd2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,Gd2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,Gd2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,HfO2,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,HfO2,0 to 25%,,,,,,10 to 50,,In vitro,Low,,,,,,,,Low
+Sphere,HfO2,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,HfO2,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,HfO2,0 to 25%,,,,,,10 to 50,,In vitro,Low,,,,,,,,Low
+Sphere,HfO2,0 to 25%,,,,,,10 to 50,Inhalation,In vivo,,,,,,,,None,None
+Sphere,In2O3,0 to 25%,,,,,,50 to 100,Inhalation,In vivo,,,,,,,,None,None
+Sphere,In2O3,0 to 25%,,,,,,50 to 100,,In vitro,None,,,,,,,,None
+Sphere,In2O3,0 to 25%,,,,,,50 to 100,,In vitro,Low,,,,,,,,Low
+Sphere,In2O3,0 to 25%,,,,,,50 to 100,,In vitro,None,,,,,,,,None
+Sphere,In2O3,0 to 25%,,,,,,50 to 100,,In vitro,None,,,,,,,,None
+Sphere,In2O3,0 to 25%,,,,,,50 to 100,,In vitro,None,,,,,,,,None
+Sphere,La2O3,0 to 25%,,,,,,10 to 50,,In vitro,Low,,,,,,,,Low
+Sphere,La2O3,0 to 25%,,,,,,10 to 50,,In vitro,Low,,,,,,,,Low
+Sphere,La2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,La2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,La2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,Mn2O3,0 to 25%,,,,High,,50 to 100,Inhalation,In vivo,,,,,,,,Medium,Medium
+Sphere,Mn2O3,0 to 25%,,,,High,,50 to 100,,In vitro,High,,,,,,,,High
+Sphere,Mn2O3,0 to 25%,,,,High,,50 to 100,,In vitro,High,,,,,,,,High
+Sphere,Mn2O3,0 to 25%,,,,High,,50 to 100,,In vitro,High,,,,,,,,High
+Sphere,Mn2O3,0 to 25%,,,,High,,50 to 100,,In vitro,High,,,,,,,,High
+Sphere,Mn2O3,0 to 25%,,,,High,,50 to 100,,In vitro,High,,,,,,,,High
+Sphere,Ni2O3,0 to 25%,,,,High,,>100,Inhalation,In vivo,,,,,,,,Medium,Medium
+Sphere,Ni2O3,0 to 25%,,,,High,,>100,,In vitro,Medium,,,,,,,,Medium
+Sphere,Ni2O3,0 to 25%,,,,High,,>100,,In vitro,Medium,,,,,,,,Medium
+Sphere,Ni2O3,0 to 25%,,,,High,,>100,,In vitro,Medium,,,,,,,,Medium
+Sphere,Ni2O3,0 to 25%,,,,High,,>100,,In vitro,Medium,,,,,,,,Medium
+Sphere,Ni2O3,0 to 25%,,,,High,,>100,,In vitro,Medium,,,,,,,,Medium
+Sphere,NiO,0 to 25%,,,,,,10 to 50,Inhalation,In vivo,,,,,,,,None,None
+Sphere,NiO,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,NiO,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,NiO,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,NiO,0 to 25%,,,,,,10 to 50,,In vitro,Low,,,,,,,,Low
+Sphere,NiO,0 to 25%,,,,,,10 to 50,,In vitro,Low,,,,,,,,Low
+Amorph,Sb2O3,0 to 25%,,,,,,10 to 50,,In vitro,Low,,,,,,,,Low
+Amorph,Sb2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,Sb2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,Sb2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,Sb2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,SiO2,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,SiO2,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,SiO2,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,SiO2,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,SiO2,0 to 25%,,,,,,10 to 50,,In vitro,Low,,,,,,,,Low
+Amorph,SiO2,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Irregular,SnO2,0 to 25%,,,,,,50 to 100,,In vitro,None,,,,,,,,None
+Irregular,SnO2,0 to 25%,,,,,,50 to 100,,In vitro,Low,,,,,,,,Low
+Irregular,SnO2,0 to 25%,,,,,,50 to 100,,In vitro,None,,,,,,,,None
+Irregular,SnO2,0 to 25%,,,,,,50 to 100,,In vitro,None,,,,,,,,None
+Irregular,SnO2,0 to 25%,,,,,,50 to 100,,In vitro,None,,,,,,,,None
+Irregular,SnO2,0 to 25%,,,,,,50 to 100,,In vitro,None,,,,,,,,None
+Sphere,TiO2,0 to 25%,,,,Low,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,0 to 25%,,,,Low,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,0 to 25%,,,,Low,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,0 to 25%,,,,Low,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,0 to 25%,,,,Low,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,TiO2,0 to 25%,,,,Low,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,WO3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,WO3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,WO3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,WO3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,WO3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,Y2O3,0 to 25%,,,,,,10 to 50,Inhalation,In vivo,,,,,,,,None,None
+Amorph,Y2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,Y2O3,0 to 25%,,,,,,10 to 50,,In vitro,Low,,,,,,,,Low
+Amorph,Y2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,Y2O3,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Amorph,Y2O3,0 to 25%,,,,,,10 to 50,,In vitro,Low,,,,,,,,Low
+Irregular,Yb2O3,0 to 25%,,,,,,50 to 100,,In vitro,None,,,,,,,,None
+Irregular,Yb2O3,0 to 25%,,,,,,50 to 100,,In vitro,None,,,,,,,,None
+Irregular,Yb2O3,0 to 25%,,,,,,50 to 100,,In vitro,None,,,,,,,,None
+Irregular,Yb2O3,0 to 25%,,,,,,50 to 100,,In vitro,None,,,,,,,,None
+Irregular,Yb2O3,0 to 25%,,,,,,50 to 100,,In vitro,Low,,,,,,,,Low
+Irregular,ZnO,0 to 25%,,,,Low,,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,ZnO,0 to 25%,,,,Low,,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,ZnO,0 to 25%,,,,Low,,10 to 50,,In vitro,High,,,,,,,,High
+Irregular,ZnO,0 to 25%,,,,Low,,10 to 50,,In vitro,High,,,,,,,,High
+Sphere,ZrO2,0 to 25%,,,,,,10 to 50,Inhalation,In vivo,,,,,,,,None,None
+Sphere,ZrO2,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,ZrO2,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,ZrO2,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,ZrO2,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+Sphere,ZrO2,0 to 25%,,,,,,10 to 50,,In vitro,None,,,,,,,,None
+460,468,238,224,192,208,153,258,468,138,468,313,26,71,40,46,4,22,121,468

@@ -1,0 +1,40 @@
+NP Type (includes QD)
+
+QD Core
+QD Shell
+QD Surface Ligand
+QD Emission Wavelength
+
+Zeta Potential
+Hydrodynamic size
+Diameter
+Surface area
+Surface charge
+Shape
+
+Surface coating
+
+Surface reactivity
+Aggregation
+
+Molecular Weight
+Ionic radius
+Electronegativity
+
+
+
+Conduction band energy
+Number of oxygen atoms
+
+Cell origin (species)
+Cell origin (organ)
+Cell origin (anatomical)
+Cell origin (primary or cell-line)
+Cell name
+
+Concentration/dose
+
+Assay
+
+Exposure time
+Dose

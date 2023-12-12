@@ -1,0 +1,1534 @@
+﻿Reference,Study title,DOI,Dose,Time,Zeta_W,Zeta_W measurement,Zeta_M,Zeta_M measurement,Hydro_W,Hydro_size_W measrement,Hydro_M,Hydro_size_M measrement,Size,Size measurement,SSA,Surf_area measurement,NP type,shape,Shape measurement,C_Origin,C_name,C_Type,Assay,Cell viability
+"Trickler et al., 2012",Effects of copper nanoparticles on rat cerebral microvessel endothelial cells.,10.2217/nnm.11.154,10,4,-47.6,LDV,?,?,?,?,?,?,40,TEM,?,?,CuO,?,,Rat,BMEC,Endothelial,XTT,Toxic
+"Trickler et al., 2012",Effects of copper nanoparticles on rat cerebral microvessel endothelial cells.,10.2217/nnm.11.154,10,4,-36.6,LDV,?,?,?,?,?,?,60,TEM,?,?,CuO,?,?,Rat,BMEC,Endothelial,XTT,Toxic
+"Trickler et al., 2012",Effects of copper nanoparticles on rat cerebral microvessel endothelial cells.,10.2217/nnm.11.154,1.56,24,-47.6,LDV,?,?,?,?,?,?,40,TEM,?,?,CuO,?,?,Rat,BMEC,Endothelial,XTT,Toxic
+"Trickler et al., 2012",Effects of copper nanoparticles on rat cerebral microvessel endothelial cells.,10.2217/nnm.11.154,1.56,24,-36.6,LDV,?,?,?,?,?,?,60,TEM,?,?,CuO,?,?,Rat,BMEC,Endothelial,XTT,Toxic
+"Trickler et al., 2012",Effects of copper nanoparticles on rat cerebral microvessel endothelial cells.,10.2217/nnm.11.154,3.13,24,-47.6,LDV,?,?,?,?,?,?,40,TEM,?,?,CuO,?,?,Rat,BMEC,Endothelial,XTT,Toxic
+"Trickler et al., 2012",Effects of copper nanoparticles on rat cerebral microvessel endothelial cells.,10.2217/nnm.11.154,3.13,24,-36.6,LDV,?,?,?,?,?,?,60,TEM,?,?,CuO,?,?,Rat,BMEC,Endothelial,XTT,Toxic
+"Trickler et al., 2012",Effects of copper nanoparticles on rat cerebral microvessel endothelial cells.,10.2217/nnm.11.154,12.5,24,-47.6,LDV,?,?,?,?,?,?,40,TEM,?,?,CuO,?,?,Rat,BMEC,Endothelial,XTT,Toxic
+"Trickler et al., 2012",Effects of copper nanoparticles on rat cerebral microvessel endothelial cells.,10.2217/nnm.11.154,12.5,24,-36.6,LDV,?,?,?,?,?,?,60,TEM,?,?,CuO,?,?,Rat,BMEC,Endothelial,XTT,Toxic
+"Trickler et al., 2012",Effects of copper nanoparticles on rat cerebral microvessel endothelial cells.,10.2217/nnm.11.154,25,4,-47.6,LDV,?,?,?,?,?,?,40,TEM,?,?,CuO,?,?,Rat,BMEC,Endothelial,XTT,Toxic
+"Trickler et al., 2012",Effects of copper nanoparticles on rat cerebral microvessel endothelial cells.,10.2217/nnm.11.154,25,4,-36.6,LDV,?,?,?,?,?,?,60,TEM,?,?,CuO,?,?,Rat,BMEC,Endothelial,XTT,Toxic
+"Trickler et al., 2012",Effects of copper nanoparticles on rat cerebral microvessel endothelial cells.,10.2217/nnm.11.154,15,24,-47.6,LDV,?,?,?,?,?,?,40,TEM,?,?,CuO,?,?,Rat,BMEC,Endothelial,XTT,Toxic
+"Trickler et al., 2012",Effects of copper nanoparticles on rat cerebral microvessel endothelial cells.,10.2217/nnm.11.154,15,24,-36.6,LDV,?,?,?,?,?,?,60,TEM,?,?,CuO,?,?,Rat,BMEC,Endothelial,XTT,Toxic
+"Kenzaoui et al., 2012","Induction of oxidative stress, lysosome activation and autophagy by nanoparticles in human brain-derived endothelial cells.",doi:10.1042/BJ20111252,235,72,-23,?,15,?,?,?,910,DLS,8,DLS,?,?,FeO,?,?,Human,HCMEC/D3,Endothelial,MTT,Toxic
+"Kenzaoui et al., 2012","Induction of oxidative stress, lysosome activation and autophagy by nanoparticles in human brain-derived endothelial cells.",doi:10.1042/BJ20111252,235,24,-30,?,?,?,14,DLS,?,?,8,DLS,?,?,FeO,?,?,Human,HCMEC/D3,Endothelial,MTT,Toxic
+"Kenzaoui et al., 2012","Induction of oxidative stress, lysosome activation and autophagy by nanoparticles in human brain-derived endothelial cells.",doi:10.1042/BJ20111252,235,72,-30,?,?,?,14,DLS,?,?,8,DLS,?,?,FeO,?,?,Human,HCMEC/D3,Endothelial,MTT,Toxic
+"Kenzaoui et al., 2012","Induction of oxidative stress, lysosome activation and autophagy by nanoparticles in human brain-derived endothelial cells.",doi:10.1042/BJ20111252,235,72,-40,?,?,?,?,?,?,?,50,TEM,?,?,SiO2,Spherical,?,Human,HCMEC/D3,Endothelial,MTT,Toxic
+"Kenzaoui et al., 2012","Induction of oxidative stress, lysosome activation and autophagy by nanoparticles in human brain-derived endothelial cells.",doi:10.1042/BJ20111252,235,72,-40,?,?,?,?,?,?,?,25,TEM,?,?,SiO2,Spherical,?,Human,HCMEC/D3,Endothelial,MTT,Toxic
+"Kenzaoui et al., 2012","Induction of oxidative stress, lysosome activation and autophagy by nanoparticles in human brain-derived endothelial cells.",doi:10.1042/BJ20111252,235,72,-30,?,?,?,?,?,650,DLS,21,TEM,?,?,TiO2,?,?,Human,HCMEC/D3,Endothelial,MTT,Toxic
+"Liu et al., 2017 b",Blood-brain barrier dysfunction induced by silica NPs in vitro and in vivo: Involvement of oxidative stress and Rho-kinase/JNK signaling pathways,doi.org/10.1016/j.biomaterials.2017.01.006,100,24,?,?,-15.5,DLS,?,?,170,DLS,20,TEM,147.8,BET,SiO2,Spherical,TEM,Human,BMEC,Endothelial,MTS,Toxic
+"Liu et al., 2017 b",Blood-brain barrier dysfunction induced by silica NPs in vitro and in vivo: Involvement of oxidative stress and Rho-kinase/JNK signaling pathways,doi.org/10.1016/j.biomaterials.2017.01.006,200,24,?,?,-15.5,DLS,?,?,170,DLS,20,TEM,147.8,BET,SiO2,Spherical,TEM,Human,BMEC,Endothelial,MTS,Toxic
+"Liu et al., 2017 b",Blood-brain barrier dysfunction induced by silica NPs in vitro and in vivo: Involvement of oxidative stress and Rho-kinase/JNK signaling pathways,doi.org/10.1016/j.biomaterials.2017.01.006,300,24,?,?,-15.5,DLS,?,?,170,DLS,20,TEM,147.8,BET,SiO2,Spherical,TEM,Human,BMEC,Endothelial,MTS,Toxic
+"Liu et al., 2017 b",Blood-brain barrier dysfunction induced by silica NPs in vitro and in vivo: Involvement of oxidative stress and Rho-kinase/JNK signaling pathways,doi.org/10.1016/j.biomaterials.2017.01.006,400,24,?,?,-15.5,DLS,?,?,170,DLS,20,TEM,147.8,BET,SiO2,Spherical,TEM,Human,BMEC,Endothelial,MTS,Toxic
+"Liu et al., 2017 b",Blood-brain barrier dysfunction induced by silica NPs in vitro and in vivo: Involvement of oxidative stress and Rho-kinase/JNK signaling pathways,doi.org/10.1016/j.biomaterials.2017.01.006,500,24,?,?,-15.5,DLS,?,?,170,DLS,20,TEM,147.8,BET,SiO2,Spherical,TEM,Human,BMEC,Endothelial,MTS,Toxic
+"Liu et al., 2017 b",Blood-brain barrier dysfunction induced by silica NPs in vitro and in vivo: Involvement of oxidative stress and Rho-kinase/JNK signaling pathways,doi.org/10.1016/j.biomaterials.2017.01.006,600,24,?,?,-15.5,DLS,?,?,170,DLS,20,TEM,147.8,BET,SiO2,Spherical,TEM,Human,BMEC,Endothelial,MTS,Toxic
+"Liu et al., 2017 b",Blood-brain barrier dysfunction induced by silica NPs in vitro and in vivo: Involvement of oxidative stress and Rho-kinase/JNK signaling pathways,doi.org/10.1016/j.biomaterials.2017.01.006,700,24,?,?,-15.5,DLS,?,?,170,DLS,20,TEM,147.8,BET,SiO2,Spherical,TEM,Human,BMEC,Endothelial,MTS,Toxic
+"Liu et al., 2017 b",Blood-brain barrier dysfunction induced by silica NPs in vitro and in vivo: Involvement of oxidative stress and Rho-kinase/JNK signaling pathways,doi.org/10.1016/j.biomaterials.2017.01.006,800,24,?,?,-15.5,DLS,?,?,170,DLS,20,TEM,147.8,BET,SiO2,Spherical,TEM,Human,BMEC,Endothelial,MTS,Toxic
+"Trickler et al., 2010",Silver nanoparticle induced blood-brain barrier inflammation and increased permeability in primary rat brain microvessel endothelial cells,doi:10.1093/toxsci/kfq244,25,24,-44.2,LDV,?,?,106,DLS,393,DLS,28,TEM,?,?,Ag,Spherical,TEM,Rat,BMEC,Endothelial,XTT,Toxic
+"Trickler et al., 2010",Silver nanoparticle induced blood-brain barrier inflammation and increased permeability in primary rat brain microvessel endothelial cells,doi:10.1093/toxsci/kfq244,50,24,-44.2,LDV,?,?,106,DLS,393,DLS,28,TEM,?,?,Ag,Spherical,TEM,Rat,BMEC,Endothelial,XTT,Toxic
+"Trickler et al., 2010",Silver nanoparticle induced blood-brain barrier inflammation and increased permeability in primary rat brain microvessel endothelial cells,doi:10.1093/toxsci/kfq244,25,24,-46,LDV,?,?,54.9,DLS,73.9,DLS,47,TEM,?,?,Ag,Spherical,TEM,Rat,BMEC,Endothelial,XTT,Toxic
+"Trickler et al., 2010",Silver nanoparticle induced blood-brain barrier inflammation and increased permeability in primary rat brain microvessel endothelial cells,doi:10.1093/toxsci/kfq244,50,24,-46,LDV,?,?,54.9,DLS,73.9,DLS,47,TEM,?,?,Ag,Spherical,TEM,Rat,BMEC,Endothelial,XTT,Toxic
+"Trickler et al., 2010",Silver nanoparticle induced blood-brain barrier inflammation and increased permeability in primary rat brain microvessel endothelial cells,doi:10.1093/toxsci/kfq244,25,24,-29.5,LDV,?,?,177,DLS,166,DLS,102,TEM,?,?,Ag,Spherical,TEM,Rat,BMEC,Endothelial,XTT,Non-Toxic
+"Trickler et al., 2010",Silver nanoparticle induced blood-brain barrier inflammation and increased permeability in primary rat brain microvessel endothelial cells,doi:10.1093/toxsci/kfq244,50,24,-29.5,LDV,?,?,177,DLS,166,DLS,102,TEM,?,?,Ag,Spherical,TEM,Rat,BMEC,Endothelial,XTT,Toxic
+"Chen et al., 2016",Influence of silver and titanium dioxide nanoparticles on in vitroblood-brain barrier permeabilityI,doi.org/10.1016/j.etap.2016.09.009,2,24,6.3,DLS,-5.5,DLS,114.5,DLS,105.6,DLS,8,TEM,?,?,Ag,Spherical,TEM,Mouse,ALT,Astrocytes,AlamarBlue,Toxic
+"Chen et al., 2016",Influence of silver and titanium dioxide nanoparticles on in vitroblood-brain barrier permeabilityI,doi.org/10.1016/j.etap.2016.09.009,4,24,6.3,DLS,-5.5,DLS,114.5,DLS,105.6,DLS,8,TEM,?,?,Ag,Spherical,TEM,Mouse,ALT,Astrocytes,AlamarBlue,Non-Toxic
+"Chen et al., 2016",Influence of silver and titanium dioxide nanoparticles on in vitroblood-brain barrier permeabilityI,doi.org/10.1016/j.etap.2016.09.009,15,24,44,DLS,-14.4,DLS,48.4,DLS,91.5,DLS,6,TEM,?,?,TiO2,Oval,TEM,Mouse,ALT,Astrocytes,AlamarBlue,Non-Toxic
+"Chen et al., 2016",Influence of silver and titanium dioxide nanoparticles on in vitroblood-brain barrier permeabilityI,doi.org/10.1016/j.etap.2016.09.009,100,24,44,DLS,-14.4,DLS,48.4,DLS,91.5,DLS,6,TEM,?,?,TiO2,Oval,TEM,Mouse,ALT,Astrocytes,AlamarBlue,Non-Toxic
+"Chen et al., 2016",Influence of silver and titanium dioxide nanoparticles on in vitroblood-brain barrier permeabilityI,doi.org/10.1016/j.etap.2016.09.009,100,24,42.8,DLS,-9.9,DLS,130.5,DLS,244.6,DLS,35,TEM,?,?,TiO2,Oval,TEM,Mouse,ALT,Astrocytes,AlamarBlue,Non-Toxic
+"Brun et al., 2012",In vitro evidence of dysregulation of blood–brain barrier function after acute and repeated/long-term exposure to TiO2 nanoparticles,doi.org/10.1016/j.biomaterials.2011.10.025,50,24,?,?,?,?,?,?,?,?,25.2,TEM,?,?,TiO2,Oval,TEM,Rat,BMEC,Endothelial,MTT,Non-Toxic
+"Brun et al., 2012",In vitro evidence of dysregulation of blood–brain barrier function after acute and repeated/long-term exposure to TiO2 nanoparticles,doi.org/10.1016/j.biomaterials.2011.10.025,100,24,?,?,?,?,?,?,?,?,25.2,TEM,?,?,TiO2,Oval,TEM,Rat,BMEC,Endothelial,MTT,Non-Toxic
+"Brun et al., 2012",In vitro evidence of dysregulation of blood–brain barrier function after acute and repeated/long-term exposure to TiO2 nanoparticles,doi.org/10.1016/j.biomaterials.2011.10.025,150,24,?,?,?,?,?,?,?,?,25.2,TEM,?,?,TiO2,Oval,TEM,Rat,BMEC,Endothelial,MTT,Non-Toxic
+"Brun et al., 2012",In vitro evidence of dysregulation of blood–brain barrier function after acute and repeated/long-term exposure to TiO2 nanoparticles,doi.org/10.1016/j.biomaterials.2011.10.025,200,24,?,?,?,?,?,?,?,?,25.2,TEM,?,?,TiO2,Oval,TEM,Rat,BMEC,Endothelial,MTT,Non-Toxic
+"Bulcke et al., 2014",Uptake and toxicity of copper oxide nanoparticles in cultured primary brain astrocytes,doi.org/10.3109/17435390.2013.829591,6,6,-49,ELS,-10,ELS,136,DLS,178,DLS,5,TEM,?,?,CuO,crystalline,TEM,Rat,Primary,Astrocytes,LDH,Toxic
+"Bulcke et al., 2014",Uptake and toxicity of copper oxide nanoparticles in cultured primary brain astrocytes,doi.org/10.3109/17435390.2013.829591,12,3,-49,ELS,-10,ELS,136,DLS,178,DLS,5,TEM,?,?,CuO,crystalline,TEM,Rat,Primary,Astrocytes,LDH,Toxic
+"Bulcke et al., 2014",Uptake and toxicity of copper oxide nanoparticles in cultured primary brain astrocytes,doi.org/10.3109/17435390.2013.829591,63,6,-49,ELS,-10,ELS,136,DLS,178,DLS,5,TEM,?,?,CuO,crystalline,TEM,Rat,Primary,Astrocytes,LDH,Toxic
+"Bulcke et al., 2014",Uptake and toxicity of copper oxide nanoparticles in cultured primary brain astrocytes,doi.org/10.3109/17435390.2013.829591,0.06,3,-49,ELS,-10,ELS,136,DLS,178,DLS,5,TEM,?,?,CuO,crystalline,TEM,Rat,Primary,Astrocytes,LDH,Non-Toxic
+"Choi et al., 2010",Silica-Based Nanoparticle Uptake and Cellular Response by Primary Microglia,"doi.org/10.1289/ehp.0901534
+",0.0218,24,?,?,-23,DLS,?,?,165,?,165,SEM,?,?,SiO2,Spherical,SEM,Rat,Primary,Microglial ,MTS,Non-Toxic
+"Choi et al., 2010",Silica-Based Nanoparticle Uptake and Cellular Response by Primary Microglia,"doi.org/10.1289/ehp.0901534
+",0.0728,24,?,?,-23,DLS,?,?,165,?,165,SEM,?,?,SiO2,Spherical,SEM,Rat,Primary,Microglial ,MTS,Non-Toxic
+"Choi et al., 2010",Silica-Based Nanoparticle Uptake and Cellular Response by Primary Microglia,"doi.org/10.1289/ehp.0901534
+",0.364,24,?,?,-23,DLS,?,?,165,?,165,SEM,?,?,SiO2,Spherical,SEM,Rat,Primary,Microglial ,MTS,Non-Toxic
+"Choi et al., 2010",Silica-Based Nanoparticle Uptake and Cellular Response by Primary Microglia,"doi.org/10.1289/ehp.0901534
+",2.18,24,?,?,-23,DLS,?,?,165,?,165,SEM,?,?,SiO2,Spherical,SEM,Rat,Primary,Microglial ,MTS,Non-Toxic
+"Choi et al., 2010",Silica-Based Nanoparticle Uptake and Cellular Response by Primary Microglia,"doi.org/10.1289/ehp.0901534
+",7.28,24,?,?,-23,DLS,?,?,165,?,165,SEM,?,?,SiO2,Spherical,SEM,Rat,Primary,Microglial ,MTS,Non-Toxic
+"Choi et al., 2010",Silica-Based Nanoparticle Uptake and Cellular Response by Primary Microglia,"doi.org/10.1289/ehp.0901534
+",36.4,24,?,?,-23,DLS,?,?,165,?,165,SEM,?,?,SiO2,Spherical,SEM,Rat,Primary,Microglial ,MTS,Non-Toxic
+"Huang et al., 2015",Silver nanoparticles affect on gene expression of inflammatory and neurodegenerative responses in mouse brain neural cells,doi.org/10.1016/j.envres.2014.11.006,0.5,24,?,?,-4.2,?,?,?,?,?,4,?,?,?,Ag,?,?,Mouse,ALT,Astrocytes,AlamarBlue,Toxic
+"Huang et al., 2015",Silver nanoparticles affect on gene expression of inflammatory and neurodegenerative responses in mouse brain neural cells,doi.org/10.1016/j.envres.2014.11.006,1,24,?,?,-4.2,?,?,?,?,?,4,?,?,?,Ag,?,?,Mouse,ALT,Astrocytes,AlamarBlue,Toxic
+"Huang et al., 2015",Silver nanoparticles affect on gene expression of inflammatory and neurodegenerative responses in mouse brain neural cells,doi.org/10.1016/j.envres.2014.11.006,10,24,?,?,-4.2,?,?,?,?,?,4,?,?,?,Ag,?,?,Mouse,ALT,Astrocytes,AlamarBlue,Toxic
+"Huang et al., 2015",Silver nanoparticles affect on gene expression of inflammatory and neurodegenerative responses in mouse brain neural cells,doi.org/10.1016/j.envres.2014.11.006,12.5,24,?,?,-4.2,?,?,?,?,?,4,?,?,?,Ag,?,?,Mouse,ALT,Astrocytes,AlamarBlue,Toxic
+"Huang et al., 2015",Silver nanoparticles affect on gene expression of inflammatory and neurodegenerative responses in mouse brain neural cells,doi.org/10.1016/j.envres.2014.11.006,0.5,24,?,?,-4.2,?,?,?,?,?,4,?,?,?,Ag,?,?,Mouse,N2a,Neuroblastoma,AlamarBlue,Non-Toxic
+"Huang et al., 2015",Silver nanoparticles affect on gene expression of inflammatory and neurodegenerative responses in mouse brain neural cells,doi.org/10.1016/j.envres.2014.11.006,1,24,?,?,-4.2,?,?,?,?,?,4,?,?,?,Ag,?,?,Mouse,N2a,Neuroblastoma,AlamarBlue,Non-Toxic
+"Huang et al., 2015",Silver nanoparticles affect on gene expression of inflammatory and neurodegenerative responses in mouse brain neural cells,doi.org/10.1016/j.envres.2014.11.006,10,24,?,?,-4.2,?,?,?,?,?,4,?,?,?,Ag,?,?,Mouse,N2a,Neuroblastoma,AlamarBlue,Non-Toxic
+"Huang et al., 2015",Silver nanoparticles affect on gene expression of inflammatory and neurodegenerative responses in mouse brain neural cells,doi.org/10.1016/j.envres.2014.11.006,12.5,24,?,?,-4.2,?,?,?,?,?,4,?,?,?,Ag,?,?,Mouse,N2a,Neuroblastoma,AlamarBlue,Toxic
+"Huang et al., 2015",Silver nanoparticles affect on gene expression of inflammatory and neurodegenerative responses in mouse brain neural cells,doi.org/10.1016/j.envres.2014.11.006,0.5,24,?,?,-4.2,?,?,?,?,?,4,?,?,?,Ag,?,?,Mouse,BV2,Microglial ,AlamarBlue,Non-Toxic
+"Huang et al., 2015",Silver nanoparticles affect on gene expression of inflammatory and neurodegenerative responses in mouse brain neural cells,doi.org/10.1016/j.envres.2014.11.006,1,24,?,?,-4.2,?,?,?,?,?,4,?,?,?,Ag,?,?,Mouse,BV2,Microglial ,AlamarBlue,Non-Toxic
+"Huang et al., 2015",Silver nanoparticles affect on gene expression of inflammatory and neurodegenerative responses in mouse brain neural cells,doi.org/10.1016/j.envres.2014.11.006,10,24,?,?,-4.2,?,?,?,?,?,4,?,?,?,Ag,?,?,Mouse,BV2,Microglial ,AlamarBlue,Non-Toxic
+"Huang et al., 2015",Silver nanoparticles affect on gene expression of inflammatory and neurodegenerative responses in mouse brain neural cells,doi.org/10.1016/j.envres.2014.11.006,12.5,24,?,?,-4.2,?,?,?,?,?,4,?,?,?,Ag,?,?,Mouse,BV2,Microglial ,AlamarBlue,Non-Toxic
+"Long et al., 2007",Nanosize titanium dioxide stimulates reactive oxygen species in brain microglia and damages neurons in vitro.,doi:10.1289/ehp.10216,40,6,-12.2,EM,-9.1,EM,?,?,?,?,25,DLS,?,?,TiO2,?,?,Mouse,BV2,Microglial ,Caspase_3/7 ,Toxic
+"Long et al., 2007",Nanosize titanium dioxide stimulates reactive oxygen species in brain microglia and damages neurons in vitro.,doi:10.1289/ehp.10216,40,24,-12.2,EM,-9.1,EM,?,?,?,?,25,DLS,?,?,TiO2,?,?,Mouse,BV2,Microglial ,Caspase_3/7 ,Toxic
+"Long et al., 2007",Nanosize titanium dioxide stimulates reactive oxygen species in brain microglia and damages neurons in vitro.,doi:10.1289/ehp.10216,40,24,-12.2,EM,-9.1,EM,?,?,?,?,25,DLS,?,?,TiO2,?,?,Rat,N27 ,Mesencephalic,Caspase_3/7 ,Non-Toxic
+"Long et al., 2007",Nanosize titanium dioxide stimulates reactive oxygen species in brain microglia and damages neurons in vitro.,doi:10.1289/ehp.10216,40,48,-12.2,EM,-9.1,EM,?,?,?,?,25,DLS,?,?,TiO2,?,?,Rat,N27 ,Mesencephalic,Caspase_3/7 ,Non-Toxic
+"Long et al., 2007",Nanosize titanium dioxide stimulates reactive oxygen species in brain microglia and damages neurons in vitro.,doi:10.1289/ehp.10216,40,72,-12.2,EM,-9.1,EM,?,?,?,?,25,DLS,?,?,TiO2,?,?,Rat,N27 ,Mesencephalic,Caspase_3/7 ,Non-Toxic
+"Long et al., 2007",Nanosize titanium dioxide stimulates reactive oxygen species in brain microglia and damages neurons in vitro.,doi:10.1289/ehp.10216,80,24,-12.2,EM,-9.1,EM,?,?,?,?,25,DLS,?,?,TiO2,?,?,Rat,N27 ,Mesencephalic,Caspase_3/7 ,Non-Toxic
+"Long et al., 2007",Nanosize titanium dioxide stimulates reactive oxygen species in brain microglia and damages neurons in vitro.,doi:10.1289/ehp.10216,80,48,-12.2,EM,-9.1,EM,?,?,?,?,25,DLS,?,?,TiO2,?,?,Rat,N27 ,Mesencephalic,Caspase_3/7 ,Non-Toxic
+"Long et al., 2007",Nanosize titanium dioxide stimulates reactive oxygen species in brain microglia and damages neurons in vitro.,doi:10.1289/ehp.10216,80,72,-12.2,EM,-9.1,EM,?,?,?,?,25,DLS,?,?,TiO2,?,?,Rat,N27 ,Mesencephalic,Caspase_3/7 ,Non-Toxic
+"Long et al., 2007",Nanosize titanium dioxide stimulates reactive oxygen species in brain microglia and damages neurons in vitro.,doi:10.1289/ehp.10216,120,24,-12.2,EM,-9.1,EM,?,?,?,?,25,DLS,?,?,TiO2,?,?,Rat,N27 ,Mesencephalic,Caspase_3/7 ,Non-Toxic
+"Long et al., 2007",Nanosize titanium dioxide stimulates reactive oxygen species in brain microglia and damages neurons in vitro.,doi:10.1289/ehp.10216,120,48,-12.2,EM,-9.1,EM,?,?,?,?,25,DLS,?,?,TiO2,?,?,Rat,N27 ,Mesencephalic,Caspase_3/7 ,Non-Toxic
+"Long et al., 2007",Nanosize titanium dioxide stimulates reactive oxygen species in brain microglia and damages neurons in vitro.,doi:10.1289/ehp.10216,120,72,-12.2,EM,-9.1,EM,?,?,?,?,25,DLS,?,?,TiO2,?,?,Rat,N27 ,Mesencephalic,Caspase_3/7 ,Non-Toxic
+"Long et al., 2007",Nanosize titanium dioxide stimulates reactive oxygen species in brain microglia and damages neurons in vitro.,doi:10.1289/ehp.10216,5,6,-12.2,EM,-9.1,EM,?,?,?,?,25,DLS,?,?,TiO2,?,?,Rat,N27 ,Mesencephalic,Caspase_3/7 ,Toxic
+"Wilson et al, 2015","Mitochondrial dysfunction and loss of glutamate uptake in
+primary astrocytes exposed to titanium dioxide nanoparticles.",doi:10.1039/c5nr03646a,25,24,?,?,-10.4,PALS,?,?,541.2,DLS,50,TEM,?,?,TiO2,Spherical,TEM,Rat,Primary,Astrocytes,MTT,Toxic
+"Wilson et al, 2015","Mitochondrial dysfunction and loss of glutamate uptake in
+primary astrocytes exposed to titanium dioxide nanoparticles.",doi:10.1039/c5nr03646a,50,24,?,?,-9.4,PALS,?,?,555.9,DLS,50,TEM,?,?,TiO2,Spherical,TEM,Rat,Primary,Astrocytes,MTT,Toxic
+"Wilson et al, 2015","Mitochondrial dysfunction and loss of glutamate uptake in
+primary astrocytes exposed to titanium dioxide nanoparticles.",doi:10.1039/c5nr03646a,100,24,?,?,-10.8,PALS,?,?,545.3,DLS,50,TEM,?,?,TiO2,Spherical,TEM,Rat,Primary,Astrocytes,MTT,Toxic
+"Wilson et al, 2015","Mitochondrial dysfunction and loss of glutamate uptake in
+primary astrocytes exposed to titanium dioxide nanoparticles.",doi:10.1039/c5nr03646a,25,24,?,?,-10.7,PALS,?,?,366.9,DLS,21,TEM,?,?,TiO2,irregular,TEM,Rat,Primary,Astrocytes,MTT,Toxic
+"Wilson et al, 2015","Mitochondrial dysfunction and loss of glutamate uptake in
+primary astrocytes exposed to titanium dioxide nanoparticles.",doi:10.1039/c5nr03646a,50,24,?,?,-8.5,PALS,?,?,363.5,DLS,21,TEM,?,?,TiO2,irregular,TEM,Rat,Primary,Astrocytes,MTT,Toxic
+"Wilson et al, 2015","Mitochondrial dysfunction and loss of glutamate uptake in
+primary astrocytes exposed to titanium dioxide nanoparticles.",doi:10.1039/c5nr03646a,100,24,?,?,-9.2,PALS,?,?,362.4,DLS,21,TEM,?,?,TiO2,irregular,TEM,Rat,Primary,Astrocytes,MTT,Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,1.5,48,?,?,0.95,DLS,356,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,15,48,?,?,0.95,DLS,356,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,31,48,?,?,0.95,DLS,356,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,62,48,?,?,0.95,DLS,356,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,125,48,?,?,0.95,DLS,356,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,MTT,Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,250,48,?,?,0.95,DLS,356,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,MTT,Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,1.5,24,?,?,0.95,DLS,356,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,15,24,?,?,0.95,DLS,356,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,31,24,?,?,0.95,DLS,356,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,62,24,?,?,0.95,DLS,356,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,125,24,?,?,0.95,DLS,356,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,MTT,Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,250,24,?,?,0.95,DLS,356,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,MTT,Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,1.5,4,?,?,0.95,DLS,356,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,15,4,?,?,0.95,DLS,356,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,31,4,?,?,0.95,DLS,356,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,62,4,?,?,0.95,DLS,356,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,125,4,?,?,0.95,DLS,356,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,250,4,?,?,0.95,DLS,356,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,1.5,48,?,?,2.58,DLS,299,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,15,48,?,?,2.58,DLS,299,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,31,48,?,?,2.58,DLS,299,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,62,48,?,?,2.58,DLS,299,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,125,48,?,?,2.58,DLS,299,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,250,48,?,?,2.58,DLS,299,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,1.5,24,?,?,2.58,DLS,299,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,15,24,?,?,2.58,DLS,299,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,31,24,?,?,2.58,DLS,299,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,62,24,?,?,2.58,DLS,299,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,125,24,?,?,2.58,DLS,299,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,250,24,?,?,2.58,DLS,299,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,1.5,4,?,?,2.58,DLS,299,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,15,4,?,?,2.58,DLS,299,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,31,4,?,?,2.58,DLS,299,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,62,4,?,?,2.58,DLS,299,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,125,4,?,?,2.58,DLS,299,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,250,4,?,?,2.58,DLS,299,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,0.1,168,?,?,0.32,DLS,275,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,Clonogenic,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,0.2,168,?,?,0.32,DLS,275,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,Clonogenic,Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,1.5,168,?,?,0.32,DLS,275,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,Clonogenic,Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,5,168,?,?,0.32,DLS,275,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,Clonogenic,Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,15,168,?,?,0.32,DLS,275,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,Clonogenic,Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,31,168,?,?,0.32,DLS,275,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,D384,Medulloblastoma,Clonogenic,Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,0.1,168,?,?,-0.7,DLS,243,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,Clonogenic,Non-Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,0.2,168,?,?,-0.7,DLS,243,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,Clonogenic,Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,1.5,168,?,?,-0.7,DLS,243,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,Clonogenic,Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,5,168,?,?,-0.7,DLS,243,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,Clonogenic,Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,15,168,?,?,-0.7,DLS,243,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,Clonogenic,Toxic
+Coccini et al 2015,"Comparative
+cellular toxicity of titanium dioxide nanoparticles on human astrocyte
+and neuronal cells after acute and prolonged exposure",doi:10.1016/j.neuro.2015.03.006,31,168,?,?,-0.7,DLS,243,DLS,?,?,15,TEM,240,?,TiO2,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,Clonogenic,Toxic
+"Wang et al., 2014","ZnO nanoparticleinduced
+oxidative stress triggers apoptosis by activating JNK signaling
+pathway in cultured primary astrocytes",doi:10.1186/1556-276X-9-117,4,6,?,?,?,?,2181,DLS,747,DLS,45,TEM,35,BET,ZnO,Rod,TEM,Rat,Primary,Astrocytes,MTT,Non-Toxic
+"Wang et al., 2014","ZnO nanoparticleinduced
+oxidative stress triggers apoptosis by activating JNK signaling
+pathway in cultured primary astrocytes",doi:10.1186/1556-276X-9-117,4,12,?,?,?,?,2181,DLS,747,DLS,45,TEM,35,BET,ZnO,Rod,TEM,Rat,Primary,Astrocytes,MTT,Non-Toxic
+"Wang et al., 2014","ZnO nanoparticleinduced
+oxidative stress triggers apoptosis by activating JNK signaling
+pathway in cultured primary astrocytes",doi:10.1186/1556-276X-9-117,4,24,?,?,?,?,2181,DLS,747,DLS,45,TEM,35,BET,ZnO,Rod,TEM,Rat,Primary,Astrocytes,MTT,Non-Toxic
+"Wang et al., 2014","ZnO nanoparticleinduced
+oxidative stress triggers apoptosis by activating JNK signaling
+pathway in cultured primary astrocytes",doi:10.1186/1556-276X-9-117,8,6,?,?,?,?,2181,DLS,747,DLS,45,TEM,35,BET,ZnO,Rod,TEM,Rat,Primary,Astrocytes,MTT,Non-Toxic
+"Wang et al., 2014","ZnO nanoparticleinduced
+oxidative stress triggers apoptosis by activating JNK signaling
+pathway in cultured primary astrocytes",doi:10.1186/1556-276X-9-117,8,12,?,?,?,?,2181,DLS,747,DLS,45,TEM,35,BET,ZnO,Rod,TEM,Rat,Primary,Astrocytes,MTT,Toxic
+"Wang et al., 2014","ZnO nanoparticleinduced
+oxidative stress triggers apoptosis by activating JNK signaling
+pathway in cultured primary astrocytes",doi:10.1186/1556-276X-9-117,8,24,?,?,?,?,2181,DLS,747,DLS,45,TEM,35,BET,ZnO,Rod,TEM,Rat,Primary,Astrocytes,MTT,Toxic
+"Wang et al., 2014","ZnO nanoparticleinduced
+oxidative stress triggers apoptosis by activating JNK signaling
+pathway in cultured primary astrocytes",doi:10.1186/1556-276X-9-117,12,6,?,?,?,?,2181,DLS,747,DLS,45,TEM,35,BET,ZnO,Rod,TEM,Rat,Primary,Astrocytes,MTT,Toxic
+"Wang et al., 2014","ZnO nanoparticleinduced
+oxidative stress triggers apoptosis by activating JNK signaling
+pathway in cultured primary astrocytes",doi:10.1186/1556-276X-9-117,12,12,?,?,?,?,2181,DLS,747,DLS,45,TEM,35,BET,ZnO,Rod,TEM,Rat,Primary,Astrocytes,MTT,Toxic
+"Wang et al., 2014","ZnO nanoparticleinduced
+oxidative stress triggers apoptosis by activating JNK signaling
+pathway in cultured primary astrocytes",doi:10.1186/1556-276X-9-117,12,24,?,?,?,?,2181,DLS,747,DLS,45,TEM,35,BET,ZnO,Rod,TEM,Rat,Primary,Astrocytes,MTT,Toxic
+"Sharma et al., 2017","Zinc oxide
+nanoparticle induces microglial death by NADPH-oxidase-independent
+reactive oxygen species as well as energy depletion.",doi:10.1007/s12035-016-0133-7,1,24,-15.8,DLS,?,?,166.2,DLS,584,DLS,38.52,TEM,?,?,ZnO,?,?,Mouse,N9,Microglial ,MTT,Non-Toxic
+"Sharma et al., 2017","Zinc oxide
+nanoparticle induces microglial death by NADPH-oxidase-independent
+reactive oxygen species as well as energy depletion.",doi:10.1007/s12035-016-0133-7,2.5,24,-15.8,DLS,?,?,166.2,DLS,584,DLS,38.52,TEM,?,?,ZnO,?,?,Mouse,N9,Microglial ,MTT,Non-Toxic
+"Sharma et al., 2017","Zinc oxide
+nanoparticle induces microglial death by NADPH-oxidase-independent
+reactive oxygen species as well as energy depletion.",doi:10.1007/s12035-016-0133-7,5,24,-15.8,DLS,?,?,166.2,DLS,584,DLS,38.52,TEM,?,?,ZnO,?,?,Mouse,N9,Microglial ,MTT,Toxic
+"Sharma et al., 2017","Zinc oxide
+nanoparticle induces microglial death by NADPH-oxidase-independent
+reactive oxygen species as well as energy depletion.",doi:10.1007/s12035-016-0133-7,6,24,-15.8,DLS,?,?,166.2,DLS,584,DLS,38.52,TEM,?,?,ZnO,?,?,Mouse,N9,Microglial ,MTT,Toxic
+"Sharma et al., 2017","Zinc oxide
+nanoparticle induces microglial death by NADPH-oxidase-independent
+reactive oxygen species as well as energy depletion.",doi:10.1007/s12035-016-0133-7,7.5,24,-15.8,DLS,?,?,166.2,DLS,584,DLS,38.52,TEM,?,?,ZnO,?,?,Mouse,N9,Microglial ,MTT,Toxic
+"Sharma et al., 2017","Zinc oxide
+nanoparticle induces microglial death by NADPH-oxidase-independent
+reactive oxygen species as well as energy depletion.",doi:10.1007/s12035-016-0133-7,10,24,-15.8,DLS,?,?,166.2,DLS,584,DLS,38.52,TEM,?,?,ZnO,?,?,Mouse,N9,Microglial ,MTT,Toxic
+"Sharma et al., 2017","Zinc oxide
+nanoparticle induces microglial death by NADPH-oxidase-independent
+reactive oxygen species as well as energy depletion.",doi:10.1007/s12035-016-0133-7,25,24,-15.8,DLS,?,?,166.2,DLS,584,DLS,38.52,TEM,?,?,ZnO,?,?,Mouse,N9,Microglial ,MTT,Toxic
+"Sharma et al., 2017","Zinc oxide
+nanoparticle induces microglial death by NADPH-oxidase-independent
+reactive oxygen species as well as energy depletion.",doi:10.1007/s12035-016-0133-7,50,24,-15.8,DLS,?,?,166.2,DLS,584,DLS,38.52,TEM,?,?,ZnO,?,?,Mouse,N9,Microglial ,MTT,Toxic
+"Sharma et al., 2017","Zinc oxide
+nanoparticle induces microglial death by NADPH-oxidase-independent
+reactive oxygen species as well as energy depletion.",doi:10.1007/s12035-016-0133-7,75,24,-15.8,DLS,?,?,166.2,DLS,584,DLS,38.52,TEM,?,?,ZnO,?,?,Mouse,N9,Microglial ,MTT,Toxic
+"Sharma et al., 2017","Zinc oxide
+nanoparticle induces microglial death by NADPH-oxidase-independent
+reactive oxygen species as well as energy depletion.",doi:10.1007/s12035-016-0133-7,100,24,-15.8,DLS,?,?,166.2,DLS,584,DLS,38.52,TEM,?,?,ZnO,?,?,Mouse,N9,Microglial ,MTT,Toxic
+"Sharma et al., 2017","Zinc oxide
+nanoparticle induces microglial death by NADPH-oxidase-independent
+reactive oxygen species as well as energy depletion.",doi:10.1007/s12035-016-0133-7,5,36,-15.8,DLS,?,?,166.2,DLS,584,DLS,38.52,TEM,?,?,ZnO,?,?,Mouse,N9,Microglial ,MTT,Toxic
+"Sharma et al., 2017","Zinc oxide
+nanoparticle induces microglial death by NADPH-oxidase-independent
+reactive oxygen species as well as energy depletion.",doi:10.1007/s12035-016-0133-7,6.5,48,-15.8,DLS,?,?,166.2,DLS,584,DLS,38.52,TEM,?,?,ZnO,?,?,Mouse,N9,Microglial ,MTT,Toxic
+"Wei et al., 2017","Involvement
+of PINK1/parkin-mediated mitophagy in ZnO nanoparticleinduced
+toxicity in BV-2 cells",doi: 10.2147/IJN.S129375,5,24,?,?,?,?,500.8,DLS,?,?,50,TEM,?,?,ZnO,Prism,TEM,Mouse,BV2,Microglial ,MTT,Non-Toxic
+"Wei et al., 2017","Involvement
+of PINK1/parkin-mediated mitophagy in ZnO nanoparticleinduced
+toxicity in BV-2 cells",doi: 10.2147/IJN.S129375,10,24,?,?,?,?,500.8,DLS,?,?,50,TEM,?,?,ZnO,Prism,TEM,Mouse,BV2,Microglial ,MTT,Non-Toxic
+"Wei et al., 2017","Involvement
+of PINK1/parkin-mediated mitophagy in ZnO nanoparticleinduced
+toxicity in BV-2 cells",doi: 10.2147/IJN.S129375,15,24,?,?,?,?,500.8,DLS,?,?,50,TEM,?,?,ZnO,Prism,TEM,Mouse,BV2,Microglial ,MTT,Toxic
+"Wei et al., 2017","Involvement
+of PINK1/parkin-mediated mitophagy in ZnO nanoparticleinduced
+toxicity in BV-2 cells",doi: 10.2147/IJN.S129375,20,24,?,?,?,?,500.8,DLS,?,?,50,TEM,?,?,ZnO,Prism,TEM,Mouse,BV2,Microglial ,MTT,Toxic
+"Wei et al., 2017","Involvement
+of PINK1/parkin-mediated mitophagy in ZnO nanoparticleinduced
+toxicity in BV-2 cells",doi: 10.2147/IJN.S129375,25,24,?,?,?,?,500.8,DLS,?,?,50,TEM,?,?,ZnO,Prism,TEM,Mouse,BV2,Microglial ,MTT,Toxic
+"Wei et al., 2017","Involvement
+of PINK1/parkin-mediated mitophagy in ZnO nanoparticleinduced
+toxicity in BV-2 cells",doi: 10.2147/IJN.S129375,30,24,?,?,?,?,500.8,DLS,?,?,50,TEM,?,?,ZnO,Prism,TEM,Mouse,BV2,Microglial ,MTT,Toxic
+"Xu et al., 2012","In vitro toxicity of nanosized
+copper particles in PC12 cells induced by oxidative stress",doi:10.1007/s11051-011-0686-3,1,3,?,?,23.14,PALS,?,?,434,DLS,30,TEM,?,?,CuO,Cubic,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Xu et al., 2012","In vitro toxicity of nanosized
+copper particles in PC12 cells induced by oxidative stress",doi:10.1007/s11051-011-0686-3,10,3,?,?,23.14,PALS,?,?,434,DLS,30,TEM,?,?,CuO,Cubic,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Xu et al., 2012","In vitro toxicity of nanosized
+copper particles in PC12 cells induced by oxidative stress",doi:10.1007/s11051-011-0686-3,30,3,?,?,23.14,PALS,?,?,434,DLS,30,TEM,?,?,CuO,Cubic,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Xu et al., 2012","In vitro toxicity of nanosized
+copper particles in PC12 cells induced by oxidative stress",doi:10.1007/s11051-011-0686-3,100,3,?,?,23.14,PALS,?,?,434,DLS,30,TEM,?,?,CuO,Cubic,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Xu et al., 2012","In vitro toxicity of nanosized
+copper particles in PC12 cells induced by oxidative stress",doi:10.1007/s11051-011-0686-3,1,6,?,?,23.14,PALS,?,?,434,DLS,30,TEM,?,?,CuO,Cubic,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Xu et al., 2012","In vitro toxicity of nanosized
+copper particles in PC12 cells induced by oxidative stress",doi:10.1007/s11051-011-0686-3,10,6,?,?,23.14,PALS,?,?,434,DLS,30,TEM,?,?,CuO,Cubic,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Xu et al., 2012","In vitro toxicity of nanosized
+copper particles in PC12 cells induced by oxidative stress",doi:10.1007/s11051-011-0686-3,30,6,?,?,23.14,PALS,?,?,434,DLS,30,TEM,?,?,CuO,Cubic,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Xu et al., 2012","In vitro toxicity of nanosized
+copper particles in PC12 cells induced by oxidative stress",doi:10.1007/s11051-011-0686-3,100,6,?,?,23.14,PALS,?,?,434,DLS,30,TEM,?,?,CuO,Cubic,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Xu et al., 2012","In vitro toxicity of nanosized
+copper particles in PC12 cells induced by oxidative stress",doi:10.1007/s11051-011-0686-3,1,12,?,?,23.14,PALS,?,?,434,DLS,30,TEM,?,?,CuO,Cubic,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Xu et al., 2012","In vitro toxicity of nanosized
+copper particles in PC12 cells induced by oxidative stress",doi:10.1007/s11051-011-0686-3,10,12,?,?,23.14,PALS,?,?,434,DLS,30,TEM,?,?,CuO,Cubic,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Xu et al., 2012","In vitro toxicity of nanosized
+copper particles in PC12 cells induced by oxidative stress",doi:10.1007/s11051-011-0686-3,30,12,?,?,23.14,PALS,?,?,434,DLS,30,TEM,?,?,CuO,Cubic,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Xu et al., 2012","In vitro toxicity of nanosized
+copper particles in PC12 cells induced by oxidative stress",doi:10.1007/s11051-011-0686-3,100,12,?,?,23.14,PALS,?,?,434,DLS,30,TEM,?,?,CuO,Cubic,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Xu et al., 2012","In vitro toxicity of nanosized
+copper particles in PC12 cells induced by oxidative stress",doi:10.1007/s11051-011-0686-3,1,24,?,?,23.14,PALS,?,?,434,DLS,30,TEM,?,?,CuO,Cubic,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Xu et al., 2012","In vitro toxicity of nanosized
+copper particles in PC12 cells induced by oxidative stress",doi:10.1007/s11051-011-0686-3,10,24,?,?,23.14,PALS,?,?,434,DLS,30,TEM,?,?,CuO,Cubic,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Xu et al., 2012","In vitro toxicity of nanosized
+copper particles in PC12 cells induced by oxidative stress",doi:10.1007/s11051-011-0686-3,30,24,?,?,23.14,PALS,?,?,434,DLS,30,TEM,?,?,CuO,Cubic,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Xu et al., 2012","In vitro toxicity of nanosized
+copper particles in PC12 cells induced by oxidative stress",doi:10.1007/s11051-011-0686-3,100,24,?,?,23.14,PALS,?,?,434,DLS,30,TEM,?,?,CuO,Cubic,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",0.1,24,-35.6,?,-8.5,?,?,?,?,?,1,TEM,?,?,GO,flat,TEM,Rat,PC12,Pheochromocytoma,LDH,Non-Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",1,24,-35.6,?,-8.5,?,?,?,?,?,1,TEM,?,?,GO,flat,TEM,Rat,PC12,Pheochromocytoma,LDH,Non-Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",10,24,-35.6,?,-8.5,?,?,?,?,?,1,TEM,?,?,GO,flat,TEM,Rat,PC12,Pheochromocytoma,LDH,Non-Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",100,24,-35.6,?,-8.5,?,?,?,?,?,1,TEM,?,?,GO,flat,TEM,Rat,PC12,Pheochromocytoma,LDH,Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",0.1,24,-15.5,?,-8.5,?,?,?,?,?,100,TEM,?,?,SWCNT,Nanotubes,TEM,Rat,PC12,Pheochromocytoma,LDH,Non-Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",1,24,-15.5,?,-8.5,?,?,?,?,?,100,TEM,?,?,SWCNT,Nanotubes,TEM,Rat,PC12,Pheochromocytoma,LDH,Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",10,24,-15.5,?,-8.5,?,?,?,?,?,100,TEM,?,?,SWCNT,Nanotubes,TEM,Rat,PC12,Pheochromocytoma,LDH,Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",100,24,-15.5,?,-8.5,?,?,?,?,?,100,TEM,?,?,SWCNT,Nanotubes,TEM,Rat,PC12,Pheochromocytoma,LDH,Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",0.1,24,-35.6,?,-8.5,?,?,?,?,?,1,TEM,?,?,GO,flat,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",1,24,-35.6,?,-8.5,?,?,?,?,?,1,TEM,?,?,GO,flat,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",10,24,-35.6,?,-8.5,?,?,?,?,?,1,TEM,?,?,GO,flat,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",100,24,-35.6,?,-8.5,?,?,?,?,?,1,TEM,?,?,GO,flat,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",0.1,24,-15.5,?,-8.5,?,?,?,?,?,100,TEM,?,?,SWCNT,Nanotubes,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",1,24,-15.5,?,-8.5,?,?,?,?,?,100,TEM,?,?,SWCNT,Nanotubes,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",10,24,-15.5,?,-8.5,?,?,?,?,?,100,TEM,?,?,SWCNT,Nanotubes,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",100,24,-15.5,?,-8.5,?,?,?,?,?,100,TEM,?,?,SWCNT,Nanotubes,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",0.01,24,-35.6,?,-8.5,?,?,?,?,?,1,TEM,?,?,GO,flat,TEM,Rat,PC12,Pheochromocytoma,MTT,Non-Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",0.01,24,-35.6,?,-8.5,?,?,?,?,?,1,TEM,?,?,GO,flat,TEM,Rat,PC12,Pheochromocytoma,Caspase_3/7 ,Non-Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",10,1,-35.6,?,-8.5,?,?,?,?,?,1,TEM,?,?,GO,flat,TEM,Rat,PC12,Pheochromocytoma,Caspase_3/7 ,Non-Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",10,4,-35.6,?,-8.5,?,?,?,?,?,1,TEM,?,?,GO,flat,TEM,Rat,PC12,Pheochromocytoma,Caspase_3/7 ,Non-Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",10,8,-35.6,?,-8.5,?,?,?,?,?,1,TEM,?,?,GO,flat,TEM,Rat,PC12,Pheochromocytoma,Caspase_3/7 ,Non-Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",10,16,-35.6,?,-8.5,?,?,?,?,?,1,TEM,?,?,GO,flat,TEM,Rat,PC12,Pheochromocytoma,Caspase_3/7 ,Toxic
+"Zhang et al., 2010","Cytotoxicity effects of graphene
+and single-wall carbon nanotubes in neural phaeochromocytomaderived
+PC12 cells.","doi:10.1021/
+nn1007176",10,24,-35.6,?,-8.5,?,?,?,?,?,1,TEM,?,?,GO,flat,TEM,Rat,PC12,Pheochromocytoma,Caspase_3/7 ,Non-Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,10,6,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,20,6,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,40,6,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,60,6,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,80,6,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,100,6,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,10,12,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,20,12,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,40,12,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,60,12,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,80,12,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,100,12,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,10,24,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,20,24,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,40,24,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,60,24,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,80,24,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,50,24,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,PI,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,100,24,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,PI,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,50,24,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,100,24,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,10,48,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,20,48,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,40,48,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,60,48,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,80,48,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,100,48,-14.3,DLS,?,?,?,?,?,?,219,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,10,6,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,20,6,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,40,6,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,60,6,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,80,6,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,100,6,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,10,12,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,20,12,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,40,12,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,60,12,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,80,12,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,100,12,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,10,24,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,20,24,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,40,24,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,60,24,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,80,24,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,50,24,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,PI,Non-Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,100,24,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,PI,Non-Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,50,24,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,100,24,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,10,48,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,20,48,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,40,48,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,60,48,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,80,48,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Kang et al., 2017","Graphene oxide and reduced graphene
+oxide induced neural pheochromocytoma-derived PC12 cell lines
+apoptosis and cell cycle alterations via the ERK signaling pathways.",doi:10.2147/IJN.S141032,100,48,-17.7,DLS,?,?,?,?,?,?,122,DLS,?,?,GO,?,?,Rat,PC12,Pheochromocytoma,CCK-8,Toxic
+"Imam et al., 2015",Iron Oxide Nanoparticles Induce Dopaminergic Damage: In vitro Pathways and In Vivo Imaging Reveals Mechanism of Neuronal Damage,doi: 10.1007/s12035-015-9259-2,2.5,24,-33.9,DLS,?,?,23.2,DLS,?,?,10.8,TEM,?,?,FeO,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,BrdU,Non-Toxic
+"Imam et al., 2015",Iron Oxide Nanoparticles Induce Dopaminergic Damage: In vitro Pathways and In Vivo Imaging Reveals Mechanism of Neuronal Damage,doi: 10.1007/s12035-015-9259-2,5,24,-33.9,DLS,?,?,23.2,DLS,?,?,10.8,TEM,?,?,FeO,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,BrdU,Non-Toxic
+"Imam et al., 2015",Iron Oxide Nanoparticles Induce Dopaminergic Damage: In vitro Pathways and In Vivo Imaging Reveals Mechanism of Neuronal Damage,doi: 10.1007/s12035-015-9259-2,10,24,-33.9,DLS,?,?,23.2,DLS,?,?,10.8,TEM,?,?,FeO,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,BrdU,Toxic
+"Imam et al., 2015",Iron Oxide Nanoparticles Induce Dopaminergic Damage: In vitro Pathways and In Vivo Imaging Reveals Mechanism of Neuronal Damage,doi: 10.1007/s12035-015-9259-2,20,24,-33.9,DLS,?,?,23.2,DLS,?,?,10.8,TEM,?,?,FeO,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,Caspase_3/7 ,Toxic
+"Imam et al., 2015",Iron Oxide Nanoparticles Induce Dopaminergic Damage: In vitro Pathways and In Vivo Imaging Reveals Mechanism of Neuronal Damage,doi: 10.1007/s12035-015-9259-2,40,24,-33.9,DLS,?,?,23.2,DLS,?,?,10.8,TEM,?,?,FeO,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,Caspase_3/7 ,Toxic
+"Imam et al., 2015",Iron Oxide Nanoparticles Induce Dopaminergic Damage: In vitro Pathways and In Vivo Imaging Reveals Mechanism of Neuronal Damage,doi: 10.1007/s12035-015-9259-2,10,24,-33.9,DLS,?,?,23.2,DLS,?,?,10.8,TEM,?,?,FeO,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,Caspase_3/7 ,Toxic
+"Imam et al., 2015",Iron Oxide Nanoparticles Induce Dopaminergic Damage: In vitro Pathways and In Vivo Imaging Reveals Mechanism of Neuronal Damage,doi: 10.1007/s12035-015-9259-2,2.5,24,-32.9,DLS,?,?,39.8,DLS,?,?,30.1,TEM,?,?,FeO,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,BrdU,Non-Toxic
+"Imam et al., 2015",Iron Oxide Nanoparticles Induce Dopaminergic Damage: In vitro Pathways and In Vivo Imaging Reveals Mechanism of Neuronal Damage,doi: 10.1007/s12035-015-9259-2,5,24,-32.9,DLS,?,?,39.8,DLS,?,?,30.1,TEM,?,?,FeO,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,BrdU,Non-Toxic
+"Imam et al., 2015",Iron Oxide Nanoparticles Induce Dopaminergic Damage: In vitro Pathways and In Vivo Imaging Reveals Mechanism of Neuronal Damage,doi: 10.1007/s12035-015-9259-2,10,24,-32.9,DLS,?,?,39.8,DLS,?,?,30.1,TEM,?,?,FeO,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,BrdU,Non-Toxic
+"Imam et al., 2015",Iron Oxide Nanoparticles Induce Dopaminergic Damage: In vitro Pathways and In Vivo Imaging Reveals Mechanism of Neuronal Damage,doi: 10.1007/s12035-015-9259-2,10,24,-32.9,DLS,?,?,39.8,DLS,?,?,30.1,TEM,?,?,FeO,Spherical,TEM,Human,SHSY5Y,Neuroblastoma,Caspase_3/7 ,Toxic
+"Hussain et al., 2006","The interaction of manganese nanoparticles with PC-
+12 cells induces dopamine depletion",doi:10.1093/toxsci/kfl020,5,24,?,?,?,?,?,?,?,?,40,TEM,?,?,MnO,irregular,TEM,Rat,PC12,Pheochromocytoma,MTT,Non-Toxic
+"Hussain et al., 2006","The interaction of manganese nanoparticles with PC-
+12 cells induces dopamine depletion",doi:10.1093/toxsci/kfl020,10,24,?,?,?,?,?,?,?,?,40,TEM,?,?,MnO,irregular,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Hussain et al., 2006","The interaction of manganese nanoparticles with PC-
+12 cells induces dopamine depletion",doi:10.1093/toxsci/kfl020,20,24,?,?,?,?,?,?,?,?,40,TEM,?,?,MnO,irregular,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Hussain et al., 2006","The interaction of manganese nanoparticles with PC-
+12 cells induces dopamine depletion",doi:10.1093/toxsci/kfl020,40,24,?,?,?,?,?,?,?,?,40,TEM,?,?,MnO,irregular,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Hussain et al., 2006","The interaction of manganese nanoparticles with PC-
+12 cells induces dopamine depletion",doi:10.1093/toxsci/kfl020,50,24,?,?,?,?,?,?,?,?,40,TEM,?,?,MnO,irregular,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Hussain et al., 2006","The interaction of manganese nanoparticles with PC-
+12 cells induces dopamine depletion",doi:10.1093/toxsci/kfl020,100,24,?,?,?,?,?,?,?,?,40,TEM,?,?,MnO,irregular,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Hussain et al., 2006","The interaction of manganese nanoparticles with PC-
+12 cells induces dopamine depletion",doi:10.1093/toxsci/kfl020,5,24,?,?,?,?,?,?,?,?,15,TEM,?,?,Ag,?,?,Rat,PC12,Pheochromocytoma,MTT,Non-Toxic
+"Hussain et al., 2006","The interaction of manganese nanoparticles with PC-
+12 cells induces dopamine depletion",doi:10.1093/toxsci/kfl020,10,24,?,?,?,?,?,?,?,?,15,TEM,?,?,Ag,?,?,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Hussain et al., 2006","The interaction of manganese nanoparticles with PC-
+12 cells induces dopamine depletion",doi:10.1093/toxsci/kfl020,20,24,?,?,?,?,?,?,?,?,15,TEM,?,?,Ag,?,?,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Hussain et al., 2006","The interaction of manganese nanoparticles with PC-
+12 cells induces dopamine depletion",doi:10.1093/toxsci/kfl020,40,24,?,?,?,?,?,?,?,?,15,TEM,?,?,Ag,?,?,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Hussain et al., 2006","The interaction of manganese nanoparticles with PC-
+12 cells induces dopamine depletion",doi:10.1093/toxsci/kfl020,50,24,?,?,?,?,?,?,?,?,15,TEM,?,?,Ag,?,?,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Hussain et al., 2006","The interaction of manganese nanoparticles with PC-
+12 cells induces dopamine depletion",doi:10.1093/toxsci/kfl020,100,24,?,?,?,?,?,?,?,?,15,TEM,?,?,Ag,?,?,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,2.5,12,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,5,12,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,10,12,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,20,12,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,40,12,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,60,12,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,2.5,24,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,5,24,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,10,24,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,20,24,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,40,24,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,60,24,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,2.5,48,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,5,48,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,10,48,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,20,48,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,40,48,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,60,48,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,2.5,12,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Mouse,N2a,Neuroblastoma,CCK-8,Non-Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,5,12,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Mouse,N2a,Neuroblastoma,CCK-8,Non-Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,10,12,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Mouse,N2a,Neuroblastoma,CCK-8,Non-Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,20,12,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Mouse,N2a,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,40,12,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Mouse,N2a,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,60,12,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Mouse,N2a,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,2.5,24,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Mouse,N2a,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,5,24,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Mouse,N2a,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,10,24,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Mouse,N2a,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,20,24,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Mouse,N2a,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,40,24,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Mouse,N2a,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,60,24,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Mouse,N2a,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,2.5,48,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Mouse,N2a,Neuroblastoma,CCK-8,Non-Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,5,48,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Mouse,N2a,Neuroblastoma,CCK-8,Non-Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,10,48,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Mouse,N2a,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,20,48,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Mouse,N2a,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,40,48,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Mouse,N2a,Neuroblastoma,CCK-8,Toxic
+"Yang et al., 2014","Uptake of silica nanoparticles: neurotoxicity
+and Alzheimer-like pathology in human SK-N-SH and
+mouse neuro2a neuroblastoma cells.",doi:10.1016/j.toxlet.2014.05.009,60,48,?,?,?,?,?,?,?,?,12.1,TEM,?,?,SiO2,?,?,Mouse,N2a,Neuroblastoma,CCK-8,Toxic
+"Hadrup et al., 2012","The similar neurotoxic
+effects of nanoparticulate and ionic silver in vivo and in vitro.","doi:10.1016/j.neuro.2012.04.
+008",0.5,4,?,?,?,?,?,?,?,?,14,TEM,?,?,Ag,Spherical,TEM,Rat,PC12,Pheochromocytoma,Trypan Blue,Non-Toxic
+"Hadrup et al., 2012","The similar neurotoxic
+effects of nanoparticulate and ionic silver in vivo and in vitro.","doi:10.1016/j.neuro.2012.04.
+008",5,4,?,?,?,?,?,?,?,?,14,TEM,?,?,Ag,Spherical,TEM,Rat,PC12,Pheochromocytoma,Trypan Blue,Non-Toxic
+"Hadrup et al., 2012","The similar neurotoxic
+effects of nanoparticulate and ionic silver in vivo and in vitro.","doi:10.1016/j.neuro.2012.04.
+008",10,4,?,?,?,?,?,?,?,?,14,TEM,?,?,Ag,Spherical,TEM,Rat,PC12,Pheochromocytoma,Trypan Blue,Non-Toxic
+"Hadrup et al., 2012","The similar neurotoxic
+effects of nanoparticulate and ionic silver in vivo and in vitro.","doi:10.1016/j.neuro.2012.04.
+008",0.5,48,?,?,?,?,?,?,?,?,14,TEM,?,?,Ag,Spherical,TEM,Rat,PC12,Pheochromocytoma,Trypan Blue,Non-Toxic
+"Hadrup et al., 2012","The similar neurotoxic
+effects of nanoparticulate and ionic silver in vivo and in vitro.","doi:10.1016/j.neuro.2012.04.
+008",5,48,?,?,?,?,?,?,?,?,14,TEM,?,?,Ag,Spherical,TEM,Rat,PC12,Pheochromocytoma,Trypan Blue,Toxic
+"Hadrup et al., 2012","The similar neurotoxic
+effects of nanoparticulate and ionic silver in vivo and in vitro.","doi:10.1016/j.neuro.2012.04.
+008",10,48,?,?,?,?,?,?,?,?,14,TEM,?,?,Ag,Spherical,TEM,Rat,PC12,Pheochromocytoma,Trypan Blue,Toxic
+"Hadrup et al., 2012","The similar neurotoxic
+effects of nanoparticulate and ionic silver in vivo and in vitro.","doi:10.1016/j.neuro.2012.04.
+008",0.5,24,?,?,?,?,?,?,?,?,14,TEM,?,?,Ag,Spherical,TEM,Rat,PC12,Pheochromocytoma,Trypan Blue,Non-Toxic
+"Hadrup et al., 2012","The similar neurotoxic
+effects of nanoparticulate and ionic silver in vivo and in vitro.","doi:10.1016/j.neuro.2012.04.
+008",5,24,?,?,?,?,?,?,?,?,14,TEM,?,?,Ag,Spherical,TEM,Rat,PC12,Pheochromocytoma,Trypan Blue,Non-Toxic
+"Hadrup et al., 2012","The similar neurotoxic
+effects of nanoparticulate and ionic silver in vivo and in vitro.","doi:10.1016/j.neuro.2012.04.
+008",10,24,?,?,?,?,?,?,?,?,14,TEM,?,?,Ag,Spherical,TEM,Rat,PC12,Pheochromocytoma,Trypan Blue,Toxic
+"Hadrup et al., 2012","The similar neurotoxic
+effects of nanoparticulate and ionic silver in vivo and in vitro.","doi:10.1016/j.neuro.2012.04.
+008",1.25,24,?,?,?,?,?,?,?,?,14,TEM,?,?,Ag,Spherical,TEM,Rat,PC12,Pheochromocytoma,TUNEL,Toxic
+"Hadrup et al., 2012","The similar neurotoxic
+effects of nanoparticulate and ionic silver in vivo and in vitro.","doi:10.1016/j.neuro.2012.04.
+008",2.5,24,?,?,?,?,?,?,?,?,14,TEM,?,?,Ag,Spherical,TEM,Rat,PC12,Pheochromocytoma,TUNEL,Toxic
+"Hadrup et al., 2012","The similar neurotoxic
+effects of nanoparticulate and ionic silver in vivo and in vitro.","doi:10.1016/j.neuro.2012.04.
+008",5,24,?,?,?,?,?,?,?,?,14,TEM,?,?,Ag,Spherical,TEM,Rat,PC12,Pheochromocytoma,TUNEL,Toxic
+Chorley et al 2014,The cellular and genomic response of rat dopaminergic neurons (N27) to coated nanosilver.,doi: 10.1016/j.neuro.2014.08.010,5,18,?,?,-7.25,DLS,?,?,?,?,10,?,?,?,Ag,?,?,Rat,N27,Mesencephalic,Caspase_3/7 ,Toxic
+Chorley et al 2014,The cellular and genomic response of rat dopaminergic neurons (N27) to coated nanosilver.,doi: 10.1016/j.neuro.2014.08.010,5,18,?,?,-6.27,DLS,?,?,?,?,75,?,?,?,Ag,?,?,Rat,N27,Mesencephalic,Caspase_3/7 ,Non-Toxic
+Chorley et al 2014,The cellular and genomic response of rat dopaminergic neurons (N27) to coated nanosilver.,doi: 10.1016/j.neuro.2014.08.010,5,18,?,?,-10.28,DLS,?,?,?,?,10,?,?,?,Ag,?,?,Rat,N27,Mesencephalic,Caspase_3/7 ,Non-Toxic
+Chorley et al 2014,The cellular and genomic response of rat dopaminergic neurons (N27) to coated nanosilver.,doi: 10.1016/j.neuro.2014.08.010,5,18,?,?,-10.73,DLS,?,?,?,?,75,?,?,?,Ag,?,?,Rat,N27,Mesencephalic,Caspase_3/7 ,Non-Toxic
+Chorley et al 2014,The cellular and genomic response of rat dopaminergic neurons (N27) to coated nanosilver.,doi: 10.1016/j.neuro.2014.08.010,3,18,?,?,-7.25,DLS,?,?,?,?,10,?,?,?,Ag,?,?,Rat,N27,Mesencephalic,Caspase_3/7 ,Non-Toxic
+Chorley et al 2014,The cellular and genomic response of rat dopaminergic neurons (N27) to coated nanosilver.,doi: 10.1016/j.neuro.2014.08.010,3,18,?,?,-6.27,DLS,?,?,?,?,75,?,?,?,Ag,?,?,Rat,N27,Mesencephalic,Caspase_3/7 ,Non-Toxic
+Chorley et al 2014,The cellular and genomic response of rat dopaminergic neurons (N27) to coated nanosilver.,doi: 10.1016/j.neuro.2014.08.010,3,18,?,?,-10.28,DLS,?,?,?,?,10,?,?,?,Ag,?,?,Rat,N27,Mesencephalic,Caspase_3/7 ,Non-Toxic
+Chorley et al 2014,The cellular and genomic response of rat dopaminergic neurons (N27) to coated nanosilver.,doi: 10.1016/j.neuro.2014.08.010,3,18,?,?,-10.73,DLS,?,?,?,?,75,?,?,?,Ag,?,?,Rat,N27,Mesencephalic,Caspase_3/7 ,Non-Toxic
+Chorley et al 2014,The cellular and genomic response of rat dopaminergic neurons (N27) to coated nanosilver.,doi: 10.1016/j.neuro.2014.08.010,1,18,?,?,-7.25,DLS,?,?,?,?,10,?,?,?,Ag,?,?,Rat,N27,Mesencephalic,Caspase_3/7 ,Non-Toxic
+Chorley et al 2014,The cellular and genomic response of rat dopaminergic neurons (N27) to coated nanosilver.,doi: 10.1016/j.neuro.2014.08.010,1,18,?,?,-6.27,DLS,?,?,?,?,75,?,?,?,Ag,?,?,Rat,N27,Mesencephalic,Caspase_3/7 ,Non-Toxic
+Chorley et al 2014,The cellular and genomic response of rat dopaminergic neurons (N27) to coated nanosilver.,doi: 10.1016/j.neuro.2014.08.010,1,18,?,?,-10.28,DLS,?,?,?,?,10,?,?,?,Ag,?,?,Rat,N27,Mesencephalic,Caspase_3/7 ,Non-Toxic
+Chorley et al 2014,The cellular and genomic response of rat dopaminergic neurons (N27) to coated nanosilver.,doi: 10.1016/j.neuro.2014.08.010,1,18,?,?,-10.73,DLS,?,?,?,?,75,?,?,?,Ag,?,?,Rat,N27,Mesencephalic,Caspase_3/7 ,Non-Toxic
+Chorley et al 2014,The cellular and genomic response of rat dopaminergic neurons (N27) to coated nanosilver.,doi: 10.1016/j.neuro.2014.08.010,0.5,18,?,?,-7.25,DLS,?,?,?,?,10,?,?,?,Ag,?,?,Rat,N27,Mesencephalic,Caspase_3/7 ,Non-Toxic
+Chorley et al 2014,The cellular and genomic response of rat dopaminergic neurons (N27) to coated nanosilver.,doi: 10.1016/j.neuro.2014.08.010,0.5,18,?,?,-6.27,DLS,?,?,?,?,75,?,?,?,Ag,?,?,Rat,N27,Mesencephalic,Caspase_3/7 ,Non-Toxic
+Chorley et al 2014,The cellular and genomic response of rat dopaminergic neurons (N27) to coated nanosilver.,doi: 10.1016/j.neuro.2014.08.010,0.5,18,?,?,-10.28,DLS,?,?,?,?,10,?,?,?,Ag,?,?,Rat,N27,Mesencephalic,Caspase_3/7 ,Non-Toxic
+Chorley et al 2014,The cellular and genomic response of rat dopaminergic neurons (N27) to coated nanosilver.,doi: 10.1016/j.neuro.2014.08.010,0.5,18,?,?,-10.73,DLS,?,?,?,?,75,?,?,?,Ag,?,?,Rat,N27,Mesencephalic,Caspase_3/7 ,Non-Toxic
+"Yin et al., 2013","Silver nanoparticle exposure attenuates
+the viability of rat cerebellum granule cells through apoptosis
+coupled to oxidative stress.",doi:10.1002/smll.201202732,0.001,24,-6.1,DLS,-15.6,DLS,?,?,?,?,25,DLS,?,?,Ag,Spherical,TEM,Rat,CGC,Cerebellar_granule,AlamarBlue,Non-Toxic
+"Yin et al., 2013","Silver nanoparticle exposure attenuates
+the viability of rat cerebellum granule cells through apoptosis
+coupled to oxidative stress.",doi:10.1002/smll.201202732,0.01,24,-6.1,DLS,-15.6,DLS,?,?,?,?,25,DLS,?,?,Ag,Spherical,TEM,Rat,CGC,Cerebellar_granule,AlamarBlue,Non-Toxic
+"Yin et al., 2013","Silver nanoparticle exposure attenuates
+the viability of rat cerebellum granule cells through apoptosis
+coupled to oxidative stress.",doi:10.1002/smll.201202732,0.05,24,-6.1,DLS,-15.6,DLS,?,?,?,?,25,DLS,?,?,Ag,Spherical,TEM,Rat,CGC,Cerebellar_granule,AlamarBlue,Toxic
+"Yin et al., 2013","Silver nanoparticle exposure attenuates
+the viability of rat cerebellum granule cells through apoptosis
+coupled to oxidative stress.",doi:10.1002/smll.201202732,0.1,24,-6.1,DLS,-15.6,DLS,?,?,?,?,25,DLS,?,?,Ag,Spherical,TEM,Rat,CGC,Cerebellar_granule,AlamarBlue,Toxic
+"Yin et al., 2013","Silver nanoparticle exposure attenuates
+the viability of rat cerebellum granule cells through apoptosis
+coupled to oxidative stress.",doi:10.1002/smll.201202732,0.25,24,-6.1,DLS,-15.6,DLS,?,?,?,?,25,DLS,?,?,Ag,Spherical,TEM,Rat,CGC,Cerebellar_granule,AlamarBlue,Toxic
+"Yin et al., 2013","Silver nanoparticle exposure attenuates
+the viability of rat cerebellum granule cells through apoptosis
+coupled to oxidative stress.",doi:10.1002/smll.201202732,2.5,24,-6.1,DLS,-15.6,DLS,?,?,?,?,25,DLS,?,?,Ag,Spherical,TEM,Rat,CGC,Cerebellar_granule,AlamarBlue,Toxic
+"Yin et al., 2013","Silver nanoparticle exposure attenuates
+the viability of rat cerebellum granule cells through apoptosis
+coupled to oxidative stress.",doi:10.1002/smll.201202732,5,24,-6.1,DLS,-15.6,DLS,?,?,?,?,25,DLS,?,?,Ag,Spherical,TEM,Rat,CGC,Cerebellar_granule,AlamarBlue,Toxic
+"Yin et al., 2013","Silver nanoparticle exposure attenuates
+the viability of rat cerebellum granule cells through apoptosis
+coupled to oxidative stress.",doi:10.1002/smll.201202732,25,24,-6.1,DLS,-15.6,DLS,?,?,?,?,25,DLS,?,?,Ag,Spherical,TEM,Rat,CGC,Cerebellar_granule,AlamarBlue,Toxic
+"Yin et al., 2013","Silver nanoparticle exposure attenuates
+the viability of rat cerebellum granule cells through apoptosis
+coupled to oxidative stress.",doi:10.1002/smll.201202732,50,24,-6.1,DLS,-15.6,DLS,?,?,?,?,25,DLS,?,?,Ag,Spherical,TEM,Rat,CGC,Cerebellar_granule,AlamarBlue,Toxic
+"Zhang et al., 2011a","Mechanistic toxicity evaluation of uncoated
+and PEGylated single-walled carbon nanotubes in neuronal PC12
+cells.",doi:10.1021/nn2016259,0.1,24,?,?,-15.5,DLS,?,?,?,?,1.5,TEM,?,?,SWCNT,Nanotubes,TEM,Rat,PC12,Pheochromocytoma,XTT,Non-Toxic
+"Zhang et al., 2011a","Mechanistic toxicity evaluation of uncoated
+and PEGylated single-walled carbon nanotubes in neuronal PC12
+cells.",doi:10.1021/nn2016259,1,24,?,?,-15.5,DLS,?,?,?,?,1.5,TEM,?,?,SWCNT,Nanotubes,TEM,Rat,PC12,Pheochromocytoma,XTT,Non-Toxic
+"Zhang et al., 2011a","Mechanistic toxicity evaluation of uncoated
+and PEGylated single-walled carbon nanotubes in neuronal PC12
+cells.",doi:10.1021/nn2016259,10,24,?,?,-15.5,DLS,?,?,?,?,1.5,TEM,?,?,SWCNT,Nanotubes,TEM,Rat,PC12,Pheochromocytoma,XTT,Non-Toxic
+"Zhang et al., 2011a","Mechanistic toxicity evaluation of uncoated
+and PEGylated single-walled carbon nanotubes in neuronal PC12
+cells.",doi:10.1021/nn2016259,100,24,?,?,-15.5,DLS,?,?,?,?,1.5,TEM,?,?,SWCNT,Nanotubes,TEM,Rat,PC12,Pheochromocytoma,XTT,Toxic
+"Zhang et al., 2011a","Mechanistic toxicity evaluation of uncoated
+and PEGylated single-walled carbon nanotubes in neuronal PC12
+cells.",doi:10.1021/nn2016259,0.1,24,?,?,-30.1,DLS,?,?,?,?,3.5,TEM,?,?,SWCNT,Nanotubes,TEM,Rat,PC12,Pheochromocytoma,XTT,Non-Toxic
+"Zhang et al., 2011a","Mechanistic toxicity evaluation of uncoated
+and PEGylated single-walled carbon nanotubes in neuronal PC12
+cells.",doi:10.1021/nn2016259,1,24,?,?,-30.1,DLS,?,?,?,?,3.5,TEM,?,?,SWCNT,Nanotubes,TEM,Rat,PC12,Pheochromocytoma,XTT,Non-Toxic
+"Zhang et al., 2011a","Mechanistic toxicity evaluation of uncoated
+and PEGylated single-walled carbon nanotubes in neuronal PC12
+cells.",doi:10.1021/nn2016259,10,24,?,?,-30.1,DLS,?,?,?,?,3.5,TEM,?,?,SWCNT,Nanotubes,TEM,Rat,PC12,Pheochromocytoma,XTT,Non-Toxic
+"Zhang et al., 2011a","Mechanistic toxicity evaluation of uncoated
+and PEGylated single-walled carbon nanotubes in neuronal PC12
+cells.",doi:10.1021/nn2016259,100,24,?,?,-30.1,DLS,?,?,?,?,3.5,TEM,?,,SWCNT,Nanotubes,TEM,Rat,PC12,Pheochromocytoma,XTT,Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,20,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,40,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,60,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,80,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,100,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,120,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,140,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,150,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,20,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,40,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,60,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,80,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,100,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,120,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,140,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,150,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,20,24,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,40,24,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,60,24,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,80,24,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,100,24,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,120,24,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,140,24,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,150,24,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,20,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,40,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,60,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,80,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,100,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,120,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,140,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,150,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,20,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,40,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,60,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,80,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,100,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,120,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,140,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,150,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,20,24,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,40,24,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,60,24,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,80,24,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,100,24,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,120,24,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,140,24,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,150,24,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,NRU,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,20,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,40,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,60,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,80,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,Annexin_V/PI,Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,80,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,100,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,120,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,Annexin_V/PI,Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,120,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,140,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,150,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,Annexin_V/PI,Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,150,3,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,20,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,40,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,60,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,80,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,Annexin_V/PI,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,80,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,100,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,120,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,Annexin_V/PI,Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,120,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,140,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,150,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,Annexin_V/PI,Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,150,6,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,20,24,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,40,24,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,60,24,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,80,24,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,100,24,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,120,24,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,140,24,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,150,24,-9.96,DLS,-10.7,DLS,447.9,DLS,504,DLS,25,DLS,210,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,20,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,40,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,60,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,80,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,Annexin_V/PI,Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,80,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,100,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,120,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,Annexin_V/PI,Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,120,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,140,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,150,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,Annexin_V/PI,Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,150,3,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,20,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,40,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,60,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,80,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,Annexin_V/PI,Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,80,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,100,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,120,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,Annexin_V/PI,Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,120,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,140,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,150,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,Annexin_V/PI,Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,150,6,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,20,24,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,40,24,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,60,24,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,80,24,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,100,24,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,120,24,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,140,24,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013a","Comparative study on
+effects of two different types of titanium dioxide nanoparticles on
+human neuronal cells.",doi:10.1016/j.fct.2013.04.010,150,24,-27.8,DLS,-10.7,DLS,160,DLS,228,DLS,25,DLS,40,DLS,TiO2,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Hu et al., 2017",Effects of titanium dioxide nanoparticles exposure on parkinsonism in zebrafish larvae and PC12,doi:10.1016/j.chemosphere.2017.01.063,1,24,?,,?,?,149.4,DLS,?,?,33.4,DLS,?,?,TiO2,Spherical,TEM,Rat,PC12,Pheochromocytoma,MTT,Non-Toxic
+"Hu et al., 2017",Effects of titanium dioxide nanoparticles exposure on parkinsonism in zebrafish larvae and PC12,doi:10.1016/j.chemosphere.2017.01.063,5,24,?,?,?,?,149.4,DLS,?,?,33.4,DLS,?,?,TiO2,Spherical,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Hu et al., 2017",Effects of titanium dioxide nanoparticles exposure on parkinsonism in zebrafish larvae and PC12,doi:10.1016/j.chemosphere.2017.01.063,25,24,?,?,?,?,149.4,DLS,?,?,33.4,DLS,?,?,TiO2,Spherical,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Hu et al., 2017",Effects of titanium dioxide nanoparticles exposure on parkinsonism in zebrafish larvae and PC12,doi:10.1016/j.chemosphere.2017.01.063,125,24,?,?,?,?,149.4,DLS,?,?,33.4,DLS,?,?,TiO2,Spherical,TEM,Rat,PC12,Pheochromocytoma,MTT,Toxic
+"Wu et al., 2010","Involvement of JNK and P53 activation in G2/
+M cell cycle arrest and apoptosis induced by titanium dioxide
+nanoparticles in neuron cells.",doi:10.1016/j.toxlet.2010.09.009,25,24,?,?,-12.5,EM,?,?,385,DLS,20,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Non-Toxic
+"Wu et al., 2010","Involvement of JNK and P53 activation in G2/
+M cell cycle arrest and apoptosis induced by titanium dioxide
+nanoparticles in neuron cells.",doi:10.1016/j.toxlet.2010.09.009,50,24,?,?,-12.5,EM,?,?,385,DLS,20,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Toxic
+"Wu et al., 2010","Involvement of JNK and P53 activation in G2/
+M cell cycle arrest and apoptosis induced by titanium dioxide
+nanoparticles in neuron cells.",doi:10.1016/j.toxlet.2010.09.009,100,24,?,?,-12.5,EM,?,?,385,DLS,20,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Toxic
+"Wu et al., 2010","Involvement of JNK and P53 activation in G2/
+M cell cycle arrest and apoptosis induced by titanium dioxide
+nanoparticles in neuron cells.",doi:10.1016/j.toxlet.2010.09.009,200,24,?,?,-12.5,EM,?,?,385,DLS,20,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Toxic
+"Wu et al., 2010","Involvement of JNK and P53 activation in G2/
+M cell cycle arrest and apoptosis induced by titanium dioxide
+nanoparticles in neuron cells.",doi:10.1016/j.toxlet.2010.09.009,25,24,?,?,-23.2,EM,?,?,532,DLS,20,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Non-Toxic
+"Wu et al., 2010","Involvement of JNK and P53 activation in G2/
+M cell cycle arrest and apoptosis induced by titanium dioxide
+nanoparticles in neuron cells.",doi:10.1016/j.toxlet.2010.09.009,50,24,?,?,-23.2,EM,?,?,532,DLS,20,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Non-Toxic
+"Wu et al., 2010","Involvement of JNK and P53 activation in G2/
+M cell cycle arrest and apoptosis induced by titanium dioxide
+nanoparticles in neuron cells.",doi:10.1016/j.toxlet.2010.09.009,100,24,?,?,-23.2,EM,?,?,532,DLS,20,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Toxic
+"Wu et al., 2010","Involvement of JNK and P53 activation in G2/
+M cell cycle arrest and apoptosis induced by titanium dioxide
+nanoparticles in neuron cells.",doi:10.1016/j.toxlet.2010.09.009,200,24,?,?,-23.2,EM,?,?,532,DLS,20,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Toxic
+"Liu et al., 2010","Oxidative stress and
+apoptosis induced by nanosized titanium dioxide in PC12 cells",doi:10.1016/j.tox.2009.11.012,1,6,?,?,?,?,368.1,DLS,?,?,21,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Non-Toxic
+"Liu et al., 2010","Oxidative stress and
+apoptosis induced by nanosized titanium dioxide in PC12 cells",doi:10.1016/j.tox.2009.11.012,10,6,?,?,?,?,368.1,DLS,?,?,21,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Non-Toxic
+"Liu et al., 2010","Oxidative stress and
+apoptosis induced by nanosized titanium dioxide in PC12 cells",doi:10.1016/j.tox.2009.11.012,50,6,?,?,?,?,368.1,DLS,?,?,21,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Non-Toxic
+"Liu et al., 2010","Oxidative stress and
+apoptosis induced by nanosized titanium dioxide in PC12 cells",doi:10.1016/j.tox.2009.11.012,100,6,?,?,?,?,368.1,DLS,?,?,21,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Toxic
+"Liu et al., 2010","Oxidative stress and
+apoptosis induced by nanosized titanium dioxide in PC12 cells",doi:10.1016/j.tox.2009.11.012,1,12,?,?,?,?,368.1,DLS,?,?,21,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Non-Toxic
+"Liu et al., 2010","Oxidative stress and
+apoptosis induced by nanosized titanium dioxide in PC12 cells",doi:10.1016/j.tox.2009.11.012,10,12,?,?,?,?,368.1,DLS,?,?,21,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Toxic
+"Liu et al., 2010","Oxidative stress and
+apoptosis induced by nanosized titanium dioxide in PC12 cells",doi:10.1016/j.tox.2009.11.012,50,12,?,?,?,?,368.1,DLS,?,?,21,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Toxic
+"Liu et al., 2010","Oxidative stress and
+apoptosis induced by nanosized titanium dioxide in PC12 cells",doi:10.1016/j.tox.2009.11.012,100,12,?,?,?,?,368.1,DLS,?,?,21,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Toxic
+"Liu et al., 2010","Oxidative stress and
+apoptosis induced by nanosized titanium dioxide in PC12 cells",doi:10.1016/j.tox.2009.11.012,1,24,?,?,?,?,368.1,DLS,?,?,21,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Non-Toxic
+"Liu et al., 2010","Oxidative stress and
+apoptosis induced by nanosized titanium dioxide in PC12 cells",doi:10.1016/j.tox.2009.11.012,10,24,?,?,?,?,368.1,DLS,?,?,21,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Toxic
+"Liu et al., 2010","Oxidative stress and
+apoptosis induced by nanosized titanium dioxide in PC12 cells",doi:10.1016/j.tox.2009.11.012,50,24,?,?,?,?,368.1,DLS,?,?,21,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Toxic
+"Liu et al., 2010","Oxidative stress and
+apoptosis induced by nanosized titanium dioxide in PC12 cells",doi:10.1016/j.tox.2009.11.012,100,24,?,?,?,?,368.1,DLS,?,?,21,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Toxic
+"Liu et al., 2010","Oxidative stress and
+apoptosis induced by nanosized titanium dioxide in PC12 cells",doi:10.1016/j.tox.2009.11.012,1,48,?,?,?,?,368.1,DLS,?,?,21,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Non-Toxic
+"Liu et al., 2010","Oxidative stress and
+apoptosis induced by nanosized titanium dioxide in PC12 cells",doi:10.1016/j.tox.2009.11.012,10,48,?,?,?,?,368.1,DLS,?,?,21,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Toxic
+"Liu et al., 2010","Oxidative stress and
+apoptosis induced by nanosized titanium dioxide in PC12 cells",doi:10.1016/j.tox.2009.11.012,50,48,?,?,?,?,368.1,DLS,?,?,21,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Toxic
+"Liu et al., 2010","Oxidative stress and
+apoptosis induced by nanosized titanium dioxide in PC12 cells",doi:10.1016/j.tox.2009.11.012,100,48,?,?,?,?,368.1,DLS,?,?,21,TEM,?,?,TiO2,?,?,Rat,PC12,Pheochromocytoma,MTS,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",5,2,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",10,2,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",20,2,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",40,2,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",60,2,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",80,2,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",100,2,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",5,6,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",10,6,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",20,6,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",40,6,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",60,6,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",80,6,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",100,6,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",5,12,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",10,12,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",20,12,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",40,12,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",60,12,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",80,12,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",100,12,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",5,24,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",10,24,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",20,24,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",40,24,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",60,24,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",80,24,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",100,24,14.8,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",5,2,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",10,2,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",20,2,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",40,2,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",60,2,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",80,2,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",100,2,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",5,6,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",10,6,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",20,6,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",40,6,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Non-Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",60,6,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",80,6,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",100,6,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",5,12,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",10,12,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",20,12,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",40,12,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",60,12,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",80,12,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",100,12,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",5,24,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",10,24,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",20,24,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",40,24,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",60,24,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",80,24,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",100,24,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,CCK-8,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",20,5,15.3,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,Annexin_V/PI,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",40,5,15.3,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,Annexin_V/PI,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",60,5,15.3,?,?,?,90.8,DLS,?,?,47.1,TEM,32.17,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,Annexin_V/PI,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",20,5,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,Annexin_V/PI,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",40,5,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,Annexin_V/PI,Toxic
+"Liu et al., 2017","Zinc oxide nanoparticles induce toxic
+responses in human neuroblastoma SHSY5Y cells in a size-dependent
+manner","doi:10.2147/IJN.
+S149070.",60,5,15.3,?,?,?,49.4,DLS,?,?,18.5,TEM,17.03,TEM,ZnO,Rod,TEM,Human,SHSY5Y,Neuroblastoma,Annexin_V/PI,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,10,3,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,20,3,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,30,3,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,40,3,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,50,3,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,60,3,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,70,3,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,80,3,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,10,6,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,20,6,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,30,6,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,40,6,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,50,6,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,60,6,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,70,6,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,80,6,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,10,24,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,20,24,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,30,24,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,40,24,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,50,24,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,60,24,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,70,24,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,80,24,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,10,48,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,20,48,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Non-Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,30,48,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,40,48,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,50,48,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,60,48,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,70,48,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Valdiglesias et al., 2013b",Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles,doi:10.1016/j.envint.2013.02.013,80,48,-8.23,DLS,-11.7,DLS,243.7,DLS,273.4,DLS,100,DLS,20,DLS,ZnO,?,?,Human,SHSY5Y,Neuroblastoma,MTT,Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,4,6,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Non-Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,8,6,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Non-Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,40,6,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Non-Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,80,6,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,400,6,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,4,12,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Non-Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,8,12,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Non-Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,40,12,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Non-Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,80,12,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,400,12,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,4,24,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Non-Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,8,24,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Non-Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,40,24,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,80,24,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,400,24,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,4,48,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Non-Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,8,48,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Non-Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,40,48,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Non-Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,80,48,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Toxic
+"Yin et al., 2012",Cytotoxic effects of ZnO hierarchical architectures on RSC96 Schwann cells,doi:10.1186/1556-276X-7-439,400,48,?,?,?,?,?,?,?,?,35,SEM,?,?,ZnO,Spherical,SEM,Rat,RSC96,Schwann,MTT,Toxic
